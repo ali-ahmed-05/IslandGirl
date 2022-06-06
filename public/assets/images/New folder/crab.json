@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "crab.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1620,
+				"h": 1100
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "crab monster copy position 1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 810,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 810,
+						"h": 550
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 810,
+						"h": 550
+					}
+				},
+				{
+					"filename": "crab monster copy position 2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 810,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 810,
+						"h": 550
+					},
+					"frame": {
+						"x": 810,
+						"y": 0,
+						"w": 810,
+						"h": 550
+					}
+				},
+				{
+					"filename": "crab monster copy position 3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 810,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 810,
+						"h": 550
+					},
+					"frame": {
+						"x": 0,
+						"y": 550,
+						"w": 810,
+						"h": 550
+					}
+				},
+				{
+					"filename": "crab monster copy position 4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 810,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 810,
+						"h": 550
+					},
+					"frame": {
+						"x": 810,
+						"y": 550,
+						"w": 810,
+						"h": 550
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6d65521ec1966fe0268b2739c5cfdf89:7fb035af822ce6b1c5832e43ea395277:794f021834165d9f9643205b3de913b7$"
+	}
+}

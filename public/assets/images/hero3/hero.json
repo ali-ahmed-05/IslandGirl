@@ -1,0 +1,1565 @@
+{
+	"textures": [
+		{
+			"image": "hero-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 850,
+				"h": 523
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 686,
+						"y": 260,
+						"w": 423,
+						"h": 521
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 423,
+						"h": 521
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 686,
+						"y": 260,
+						"w": 423,
+						"h": 521
+					},
+					"frame": {
+						"x": 426,
+						"y": 1,
+						"w": 423,
+						"h": 521
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 854,
+				"h": 524
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 684,
+						"y": 260,
+						"w": 427,
+						"h": 522
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 427,
+						"h": 522
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 686,
+						"y": 260,
+						"w": 423,
+						"h": 521
+					},
+					"frame": {
+						"x": 430,
+						"y": 1,
+						"w": 423,
+						"h": 521
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 882,
+				"h": 537
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 257,
+						"w": 451,
+						"h": 535
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 451,
+						"h": 535
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 684,
+						"y": 260,
+						"w": 427,
+						"h": 522
+					},
+					"frame": {
+						"x": 454,
+						"y": 1,
+						"w": 427,
+						"h": 522
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 906,
+				"h": 537
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 257,
+						"w": 451,
+						"h": 535
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 451,
+						"h": 535
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 257,
+						"w": 451,
+						"h": 535
+					},
+					"frame": {
+						"x": 454,
+						"y": 1,
+						"w": 451,
+						"h": 535
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 920,
+				"h": 538
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 694,
+						"y": 257,
+						"w": 458,
+						"h": 536
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 458,
+						"h": 536
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 694,
+						"y": 257,
+						"w": 458,
+						"h": 536
+					},
+					"frame": {
+						"x": 461,
+						"y": 1,
+						"w": 458,
+						"h": 536
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 920,
+				"h": 549
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 704,
+						"y": 252,
+						"w": 458,
+						"h": 547
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 458,
+						"h": 547
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 704,
+						"y": 252,
+						"w": 458,
+						"h": 547
+					},
+					"frame": {
+						"x": 461,
+						"y": 1,
+						"w": 458,
+						"h": 547
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 928,
+				"h": 551
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 700,
+						"y": 252,
+						"w": 466,
+						"h": 549
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 466,
+						"h": 549
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 704,
+						"y": 252,
+						"w": 458,
+						"h": 547
+					},
+					"frame": {
+						"x": 469,
+						"y": 1,
+						"w": 458,
+						"h": 547
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 897,
+				"h": 568
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 683,
+						"y": 263,
+						"w": 427,
+						"h": 566
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 427,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 700,
+						"y": 252,
+						"w": 466,
+						"h": 549
+					},
+					"frame": {
+						"x": 430,
+						"y": 1,
+						"w": 466,
+						"h": 549
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 863,
+				"h": 568
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 681,
+						"y": 263,
+						"w": 432,
+						"h": 566
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 432,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 683,
+						"y": 263,
+						"w": 427,
+						"h": 566
+					},
+					"frame": {
+						"x": 435,
+						"y": 1,
+						"w": 427,
+						"h": 566
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 863,
+				"h": 568
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 681,
+						"y": 263,
+						"w": 432,
+						"h": 566
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 432,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 683,
+						"y": 263,
+						"w": 427,
+						"h": 566
+					},
+					"frame": {
+						"x": 435,
+						"y": 1,
+						"w": 427,
+						"h": 566
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 832,
+				"h": 579
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 725,
+						"y": 248,
+						"w": 414,
+						"h": 577
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 414,
+						"h": 577
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 725,
+						"y": 248,
+						"w": 414,
+						"h": 577
+					},
+					"frame": {
+						"x": 417,
+						"y": 1,
+						"w": 414,
+						"h": 577
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 840,
+				"h": 581
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 721,
+						"y": 248,
+						"w": 422,
+						"h": 579
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 422,
+						"h": 579
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 725,
+						"y": 248,
+						"w": 414,
+						"h": 577
+					},
+					"frame": {
+						"x": 425,
+						"y": 1,
+						"w": 414,
+						"h": 577
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 817,
+				"h": 596
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 716,
+						"y": 264,
+						"w": 391,
+						"h": 594
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 391,
+						"h": 594
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 721,
+						"y": 248,
+						"w": 422,
+						"h": 579
+					},
+					"frame": {
+						"x": 394,
+						"y": 1,
+						"w": 422,
+						"h": 579
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 791,
+				"h": 596
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 714,
+						"y": 264,
+						"w": 396,
+						"h": 594
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 396,
+						"h": 594
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 716,
+						"y": 264,
+						"w": 391,
+						"h": 594
+					},
+					"frame": {
+						"x": 399,
+						"y": 1,
+						"w": 391,
+						"h": 594
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 791,
+				"h": 596
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 714,
+						"y": 264,
+						"w": 396,
+						"h": 594
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 396,
+						"h": 594
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 716,
+						"y": 264,
+						"w": 391,
+						"h": 594
+					},
+					"frame": {
+						"x": 399,
+						"y": 1,
+						"w": 391,
+						"h": 594
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 969,
+				"h": 597
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 774,
+						"y": 263,
+						"w": 325,
+						"h": 595
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 325,
+						"h": 595
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 776,
+						"y": 263,
+						"w": 319,
+						"h": 595
+					},
+					"frame": {
+						"x": 328,
+						"y": 1,
+						"w": 319,
+						"h": 595
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 776,
+						"y": 263,
+						"w": 319,
+						"h": 595
+					},
+					"frame": {
+						"x": 649,
+						"y": 1,
+						"w": 319,
+						"h": 595
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 900,
+				"h": 602
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 836,
+						"y": 264,
+						"w": 250,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 250,
+						"h": 600
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 774,
+						"y": 263,
+						"w": 325,
+						"h": 595
+					},
+					"frame": {
+						"x": 253,
+						"y": 1,
+						"w": 325,
+						"h": 595
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 776,
+						"y": 263,
+						"w": 319,
+						"h": 595
+					},
+					"frame": {
+						"x": 580,
+						"y": 1,
+						"w": 319,
+						"h": 595
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 985,
+				"h": 603
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 839,
+						"y": 264,
+						"w": 243,
+						"h": 601
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 243,
+						"h": 601
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 839,
+						"y": 264,
+						"w": 242,
+						"h": 601
+					},
+					"frame": {
+						"x": 246,
+						"y": 1,
+						"w": 242,
+						"h": 601
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 836,
+						"y": 264,
+						"w": 250,
+						"h": 600
+					},
+					"frame": {
+						"x": 490,
+						"y": 1,
+						"w": 250,
+						"h": 600
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 839,
+						"y": 264,
+						"w": 242,
+						"h": 601
+					},
+					"frame": {
+						"x": 742,
+						"y": 1,
+						"w": 242,
+						"h": 601
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1014,
+				"h": 611
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 819,
+						"y": 260,
+						"w": 262,
+						"h": 609
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 262,
+						"h": 609
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 744,
+						"y": 244,
+						"w": 373,
+						"h": 607
+					},
+					"frame": {
+						"x": 265,
+						"y": 1,
+						"w": 373,
+						"h": 607
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 744,
+						"y": 244,
+						"w": 373,
+						"h": 607
+					},
+					"frame": {
+						"x": 640,
+						"y": 1,
+						"w": 373,
+						"h": 607
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1021,
+				"h": 611
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 819,
+						"y": 260,
+						"w": 262,
+						"h": 609
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 262,
+						"h": 609
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 741,
+						"y": 244,
+						"w": 380,
+						"h": 608
+					},
+					"frame": {
+						"x": 265,
+						"y": 1,
+						"w": 380,
+						"h": 608
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 744,
+						"y": 244,
+						"w": 373,
+						"h": 607
+					},
+					"frame": {
+						"x": 647,
+						"y": 1,
+						"w": 373,
+						"h": 607
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 927,
+				"h": 612
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 816,
+						"y": 260,
+						"w": 272,
+						"h": 610
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 272,
+						"h": 610
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 741,
+						"y": 244,
+						"w": 380,
+						"h": 608
+					},
+					"frame": {
+						"x": 275,
+						"y": 1,
+						"w": 380,
+						"h": 608
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 816,
+						"y": 260,
+						"w": 269,
+						"h": 610
+					},
+					"frame": {
+						"x": 657,
+						"y": 1,
+						"w": 269,
+						"h": 610
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 867,
+				"h": 617
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 793,
+						"y": 253,
+						"w": 296,
+						"h": 615
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 296,
+						"h": 615
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 793,
+						"y": 253,
+						"w": 296,
+						"h": 615
+					},
+					"frame": {
+						"x": 299,
+						"y": 1,
+						"w": 296,
+						"h": 615
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 816,
+						"y": 260,
+						"w": 269,
+						"h": 610
+					},
+					"frame": {
+						"x": 597,
+						"y": 1,
+						"w": 269,
+						"h": 610
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 915,
+				"h": 618
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 790,
+						"y": 253,
+						"w": 305,
+						"h": 616
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 305,
+						"h": 616
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 790,
+						"y": 253,
+						"w": 302,
+						"h": 616
+					},
+					"frame": {
+						"x": 308,
+						"y": 1,
+						"w": 302,
+						"h": 616
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 790,
+						"y": 253,
+						"w": 302,
+						"h": 616
+					},
+					"frame": {
+						"x": 612,
+						"y": 1,
+						"w": 302,
+						"h": 616
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 987,
+				"h": 624
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 767,
+						"y": 246,
+						"w": 327,
+						"h": 622
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 327,
+						"h": 622
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 767,
+						"y": 246,
+						"w": 327,
+						"h": 622
+					},
+					"frame": {
+						"x": 330,
+						"y": 1,
+						"w": 327,
+						"h": 622
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 767,
+						"y": 246,
+						"w": 327,
+						"h": 622
+					},
+					"frame": {
+						"x": 659,
+						"y": 1,
+						"w": 327,
+						"h": 622
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1003,
+				"h": 626
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Pirate girl run.24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 764,
+						"y": 246,
+						"w": 333,
+						"h": 624
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 333,
+						"h": 624
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 764,
+						"y": 246,
+						"w": 333,
+						"h": 624
+					},
+					"frame": {
+						"x": 336,
+						"y": 1,
+						"w": 333,
+						"h": 624
+					}
+				},
+				{
+					"filename": "Scene - Pirate girl run.00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 764,
+						"y": 246,
+						"w": 331,
+						"h": 624
+					},
+					"frame": {
+						"x": 671,
+						"y": 1,
+						"w": 331,
+						"h": 624
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a71b5cb6c6a81ca76ed5d7e07aaf9442:112bd4c672bb0ba85095e813d020b150:7111125154ab80217ece7e3545d3bbff$"
+	}
+}

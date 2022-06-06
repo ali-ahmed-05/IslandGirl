@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "Tree 1 v2 position 2.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 2007,
+        "h": 487
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 2,
+        "w": 2007,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 2048,
+        "h": 489
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Tree 1 v2 position 3.png": {
+      "frame": {
+        "x": 0,
+        "y": 487,
+        "w": 2004,
+        "h": 487
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 2,
+        "w": 2004,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 2048,
+        "h": 489
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Tree 1 v2 position 1.png": {
+      "frame": {
+        "x": 0,
+        "y": 974,
+        "w": 2004,
+        "h": 486
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 2004,
+        "h": 486
+      },
+      "sourceSize": {
+        "w": 2048,
+        "h": 489
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Tree 1 v2 position 4.png": {
+      "frame": {
+        "x": 0,
+        "y": 1460,
+        "w": 2004,
+        "h": 485
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 4,
+        "w": 2004,
+        "h": 485
+      },
+      "sourceSize": {
+        "w": 2048,
+        "h": 489
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2007,
+      "h": 1945
+    },
+    "scale": 1
+  }
+}

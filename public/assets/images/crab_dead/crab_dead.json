@@ -1,0 +1,1291 @@
+{
+	"textures": [
+		{
+			"image": "crab_dead-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1573,
+				"h": 1966
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl game crab dead frame v10001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 28,
+						"w": 785,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 1,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 1,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 1,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 1,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 1,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 411,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 411,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 411,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 411,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 411,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 411,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 411,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 411,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 784,
+						"h": 408
+					},
+					"frame": {
+						"x": 788,
+						"y": 411,
+						"w": 784,
+						"h": 408
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 807,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 807,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 807,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 807,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 821,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 821,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1198,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1198,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1198,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1198,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 1203,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 785,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 1203,
+						"w": 785,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1575,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1575,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1575,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 61,
+						"w": 784,
+						"h": 375
+					},
+					"frame": {
+						"x": 788,
+						"y": 1575,
+						"w": 784,
+						"h": 375
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 70,
+						"w": 784,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1599,
+						"w": 784,
+						"h": 366
+					}
+				}
+			]
+		},
+		{
+			"image": "crab_dead-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 786,
+				"h": 361
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl game crab dead frame v10050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				},
+				{
+					"filename": "sorcerer girl game crab dead frame v10060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 78,
+						"w": 784,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 784,
+						"h": 359
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f28a89a07765f6c30e5d91e4907b74c3:cffa936e880b5ff04cd8432416ad4279:28bf8d3a34d7f56c32c905eb114d829e$"
+	}
+}

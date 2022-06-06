@@ -1,0 +1,6 @@
+[
+  "constructor()",
+  "function fetchMyNFTs(address) view returns (tuple(uint256,address,uint256,address,uint256)[])",
+  "function stake(address,uint256) payable returns (uint256)",
+  "function unStake(address,uint256) payable"
+]

@@ -1,0 +1,3189 @@
+{
+	"textures": [
+		{
+			"image": "hero-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 1261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 808,
+						"h": 1259
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 808,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 811,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1921,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1201,
+						"h": 1219
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1201,
+						"h": 1219
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1879,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 505,
+						"y": 10,
+						"w": 1159,
+						"h": 1239
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1159,
+						"h": 1239
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1262
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 913,
+						"y": 10,
+						"w": 716,
+						"h": 1260
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 716,
+						"h": 1260
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 719,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1966,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1966,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1150,
+						"h": 1253
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1150,
+						"h": 1253
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-25.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-26.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 772,
+						"y": 10,
+						"w": 812,
+						"h": 1267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 812,
+						"h": 1267
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-27.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-28.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-29.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 10,
+						"w": 1171,
+						"h": 1258
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 1171,
+						"h": 1258
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-30.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1275
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-31.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1275
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-32.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1275
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-33.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1275
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-34.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1275
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1273
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1273
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-35.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1654,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-36.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1654,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-37.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1654,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 10,
+						"w": 825,
+						"h": 1274
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 825,
+						"h": 1274
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-38.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1278
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-39.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1278
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-40.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1278
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-41.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 1278
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 1003,
+						"h": 1276
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 1003,
+						"h": 1276
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-42.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1698,
+				"h": 1279
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 850,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-43.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1698,
+				"h": 1279
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 850,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-44.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1698,
+				"h": 1279
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 850,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-45.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1698,
+				"h": 1279
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 850,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-46.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1820,
+				"h": 1283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 847,
+						"h": 1277
+					},
+					"frame": {
+						"x": 972,
+						"y": 1,
+						"w": 847,
+						"h": 1277
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-47.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 1283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 972,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-48.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 1283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 972,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-49.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 1283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 972,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-50.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 1283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 972,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-51.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1790,
+				"h": 1284
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 10,
+						"w": 969,
+						"h": 1281
+					},
+					"frame": {
+						"x": 820,
+						"y": 1,
+						"w": 969,
+						"h": 1281
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-52.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1638,
+				"h": 1284
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 820,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-53.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1638,
+				"h": 1284
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 820,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-54.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1638,
+				"h": 1284
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 10,
+						"w": 817,
+						"h": 1282
+					},
+					"frame": {
+						"x": 820,
+						"y": 1,
+						"w": 817,
+						"h": 1282
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-55.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1798,
+				"h": 1290
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 900,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-56.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1798,
+				"h": 1290
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 900,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-57.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1798,
+				"h": 1290
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 900,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-58.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1798,
+				"h": 1290
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 900,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-59.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1798,
+				"h": 1290
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame final v60098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				},
+				{
+					"filename": "sorcerer girl frame final v60099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1721,
+						"h": 1306
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 10,
+						"w": 897,
+						"h": 1288
+					},
+					"frame": {
+						"x": 900,
+						"y": 1,
+						"w": 897,
+						"h": 1288
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:edff1578fcf584a19e4821b56e74897c:04c07c534aa7a1a5c574fba9d0537695:94d49d2f6e7cda97c9bdd9bb649ab75f$"
+	}
+}

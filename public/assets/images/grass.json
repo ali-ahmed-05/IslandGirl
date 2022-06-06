@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "grass.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1399,
+				"h": 1140
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Grass v2 9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 698,
+						"h": 189
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 698,
+						"h": 189
+					}
+				},
+				{
+					"filename": "Grass v2 11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 697,
+						"h": 189
+					},
+					"frame": {
+						"x": 701,
+						"y": 1,
+						"w": 697,
+						"h": 189
+					}
+				},
+				{
+					"filename": "Grass v2 3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 7,
+						"w": 698,
+						"h": 187
+					},
+					"frame": {
+						"x": 1,
+						"y": 192,
+						"w": 698,
+						"h": 187
+					}
+				},
+				{
+					"filename": "Grass v2 2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 697,
+						"h": 189
+					},
+					"frame": {
+						"x": 701,
+						"y": 192,
+						"w": 697,
+						"h": 189
+					}
+				},
+				{
+					"filename": "Grass v2 1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 697,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 381,
+						"w": 697,
+						"h": 188
+					}
+				},
+				{
+					"filename": "Grass v2 10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 697,
+						"h": 188
+					},
+					"frame": {
+						"x": 700,
+						"y": 383,
+						"w": 697,
+						"h": 188
+					}
+				},
+				{
+					"filename": "Grass v2 4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 697,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 571,
+						"w": 697,
+						"h": 188
+					}
+				},
+				{
+					"filename": "Grass v2 6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 6,
+						"w": 697,
+						"h": 188
+					},
+					"frame": {
+						"x": 700,
+						"y": 573,
+						"w": 697,
+						"h": 188
+					}
+				},
+				{
+					"filename": "Grass v2 7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 697,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 761,
+						"w": 697,
+						"h": 188
+					}
+				},
+				{
+					"filename": "Grass v2 8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 697,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 951,
+						"w": 697,
+						"h": 188
+					}
+				},
+				{
+					"filename": "Grass v2 5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 728,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 695,
+						"h": 189
+					},
+					"frame": {
+						"x": 700,
+						"y": 763,
+						"w": 695,
+						"h": 189
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fca8534c2509050fe17baf716d316d13:f14259c3d287f50951e772ca18e43580:b5eff027e4675af447e0c9c1b13dff5b$"
+	}
+}

@@ -1,0 +1,1565 @@
+{
+	"textures": [
+		{
+			"image": "hero-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 874,
+				"h": 550
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 716,
+						"y": 251,
+						"w": 435,
+						"h": 548
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 435,
+						"h": 548
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 716,
+						"y": 251,
+						"w": 435,
+						"h": 548
+					},
+					"frame": {
+						"x": 438,
+						"y": 1,
+						"w": 435,
+						"h": 548
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 858,
+				"h": 551
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 717,
+						"y": 251,
+						"w": 427,
+						"h": 549
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 427,
+						"h": 549
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 717,
+						"y": 251,
+						"w": 427,
+						"h": 549
+					},
+					"frame": {
+						"x": 430,
+						"y": 1,
+						"w": 427,
+						"h": 549
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 889,
+				"h": 556
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 730,
+						"y": 250,
+						"w": 458,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 458,
+						"h": 554
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 717,
+						"y": 251,
+						"w": 427,
+						"h": 549
+					},
+					"frame": {
+						"x": 461,
+						"y": 1,
+						"w": 427,
+						"h": 549
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 924,
+				"h": 557
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 727,
+						"y": 250,
+						"w": 462,
+						"h": 555
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 462,
+						"h": 555
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 730,
+						"y": 250,
+						"w": 458,
+						"h": 554
+					},
+					"frame": {
+						"x": 465,
+						"y": 1,
+						"w": 458,
+						"h": 554
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 928,
+				"h": 557
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 727,
+						"y": 250,
+						"w": 462,
+						"h": 555
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 462,
+						"h": 555
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 727,
+						"y": 250,
+						"w": 462,
+						"h": 555
+					},
+					"frame": {
+						"x": 465,
+						"y": 1,
+						"w": 462,
+						"h": 555
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 934,
+				"h": 568
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 735,
+						"y": 245,
+						"w": 465,
+						"h": 566
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 465,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 735,
+						"y": 245,
+						"w": 465,
+						"h": 566
+					},
+					"frame": {
+						"x": 468,
+						"y": 1,
+						"w": 465,
+						"h": 566
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 936,
+				"h": 570
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 735,
+						"y": 245,
+						"w": 466,
+						"h": 568
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 466,
+						"h": 568
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 735,
+						"y": 245,
+						"w": 466,
+						"h": 568
+					},
+					"frame": {
+						"x": 469,
+						"y": 1,
+						"w": 466,
+						"h": 568
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 898,
+				"h": 598
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 715,
+						"y": 254,
+						"w": 428,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 428,
+						"h": 596
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 735,
+						"y": 245,
+						"w": 466,
+						"h": 568
+					},
+					"frame": {
+						"x": 431,
+						"y": 1,
+						"w": 466,
+						"h": 568
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 868,
+				"h": 598
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 714,
+						"y": 254,
+						"w": 436,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 436,
+						"h": 596
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 715,
+						"y": 254,
+						"w": 428,
+						"h": 596
+					},
+					"frame": {
+						"x": 439,
+						"y": 1,
+						"w": 428,
+						"h": 596
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 868,
+				"h": 598
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 714,
+						"y": 254,
+						"w": 436,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 436,
+						"h": 596
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 715,
+						"y": 254,
+						"w": 428,
+						"h": 596
+					},
+					"frame": {
+						"x": 439,
+						"y": 1,
+						"w": 428,
+						"h": 596
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 842,
+				"h": 601
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 758,
+						"y": 239,
+						"w": 419,
+						"h": 599
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 419,
+						"h": 599
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 758,
+						"y": 239,
+						"w": 419,
+						"h": 599
+					},
+					"frame": {
+						"x": 422,
+						"y": 1,
+						"w": 419,
+						"h": 599
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 850,
+				"h": 603
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 239,
+						"w": 423,
+						"h": 601
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 423,
+						"h": 601
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 239,
+						"w": 423,
+						"h": 601
+					},
+					"frame": {
+						"x": 426,
+						"y": 1,
+						"w": 423,
+						"h": 601
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 815,
+				"h": 620
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 749,
+						"y": 255,
+						"w": 388,
+						"h": 618
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 388,
+						"h": 618
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 239,
+						"w": 423,
+						"h": 601
+					},
+					"frame": {
+						"x": 391,
+						"y": 1,
+						"w": 423,
+						"h": 601
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 974,
+				"h": 628
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 861,
+						"y": 254,
+						"w": 252,
+						"h": 626
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 252,
+						"h": 626
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 748,
+						"y": 255,
+						"w": 395,
+						"h": 618
+					},
+					"frame": {
+						"x": 255,
+						"y": 1,
+						"w": 395,
+						"h": 618
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 806,
+						"y": 253,
+						"w": 321,
+						"h": 618
+					},
+					"frame": {
+						"x": 652,
+						"y": 1,
+						"w": 321,
+						"h": 618
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 967,
+				"h": 628
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 861,
+						"y": 254,
+						"w": 252,
+						"h": 626
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 252,
+						"h": 626
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 749,
+						"y": 255,
+						"w": 388,
+						"h": 618
+					},
+					"frame": {
+						"x": 255,
+						"y": 1,
+						"w": 388,
+						"h": 618
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 806,
+						"y": 253,
+						"w": 321,
+						"h": 618
+					},
+					"frame": {
+						"x": 645,
+						"y": 1,
+						"w": 321,
+						"h": 618
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 787,
+				"h": 620
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 748,
+						"y": 255,
+						"w": 395,
+						"h": 618
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 395,
+						"h": 618
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 749,
+						"y": 255,
+						"w": 388,
+						"h": 618
+					},
+					"frame": {
+						"x": 398,
+						"y": 1,
+						"w": 388,
+						"h": 618
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 945,
+				"h": 623
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 809,
+						"y": 253,
+						"w": 313,
+						"h": 621
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 313,
+						"h": 621
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 809,
+						"y": 253,
+						"w": 313,
+						"h": 621
+					},
+					"frame": {
+						"x": 316,
+						"y": 1,
+						"w": 313,
+						"h": 621
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 809,
+						"y": 253,
+						"w": 313,
+						"h": 621
+					},
+					"frame": {
+						"x": 631,
+						"y": 1,
+						"w": 313,
+						"h": 621
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 637
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 854,
+						"y": 250,
+						"w": 260,
+						"h": 635
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 260,
+						"h": 635
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 861,
+						"y": 254,
+						"w": 252,
+						"h": 626
+					},
+					"frame": {
+						"x": 263,
+						"y": 1,
+						"w": 252,
+						"h": 626
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 861,
+						"y": 254,
+						"w": 252,
+						"h": 626
+					},
+					"frame": {
+						"x": 517,
+						"y": 1,
+						"w": 252,
+						"h": 626
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 861,
+						"y": 254,
+						"w": 252,
+						"h": 626
+					},
+					"frame": {
+						"x": 771,
+						"y": 1,
+						"w": 252,
+						"h": 626
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1022,
+				"h": 637
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 854,
+						"y": 250,
+						"w": 258,
+						"h": 635
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 258,
+						"h": 635
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 777,
+						"y": 234,
+						"w": 379,
+						"h": 630
+					},
+					"frame": {
+						"x": 261,
+						"y": 1,
+						"w": 379,
+						"h": 630
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 777,
+						"y": 234,
+						"w": 379,
+						"h": 630
+					},
+					"frame": {
+						"x": 642,
+						"y": 1,
+						"w": 379,
+						"h": 630
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 768,
+				"h": 633
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 775,
+						"y": 234,
+						"w": 382,
+						"h": 631
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 382,
+						"h": 631
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 775,
+						"y": 234,
+						"w": 382,
+						"h": 631
+					},
+					"frame": {
+						"x": 385,
+						"y": 1,
+						"w": 382,
+						"h": 631
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 910,
+				"h": 637
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 851,
+						"y": 250,
+						"w": 261,
+						"h": 635
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 261,
+						"h": 635
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 775,
+						"y": 234,
+						"w": 382,
+						"h": 631
+					},
+					"frame": {
+						"x": 264,
+						"y": 1,
+						"w": 382,
+						"h": 631
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 851,
+						"y": 250,
+						"w": 261,
+						"h": 635
+					},
+					"frame": {
+						"x": 648,
+						"y": 1,
+						"w": 261,
+						"h": 635
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 857,
+				"h": 642
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 827,
+						"y": 242,
+						"w": 298,
+						"h": 640
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 640
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 827,
+						"y": 242,
+						"w": 295,
+						"h": 640
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 295,
+						"h": 640
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 854,
+						"y": 250,
+						"w": 258,
+						"h": 635
+					},
+					"frame": {
+						"x": 598,
+						"y": 1,
+						"w": 258,
+						"h": 635
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 885,
+				"h": 643
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 825,
+						"y": 242,
+						"w": 292,
+						"h": 641
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 292,
+						"h": 641
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 825,
+						"y": 242,
+						"w": 292,
+						"h": 641
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 292,
+						"h": 641
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 827,
+						"y": 242,
+						"w": 295,
+						"h": 640
+					},
+					"frame": {
+						"x": 589,
+						"y": 1,
+						"w": 295,
+						"h": 640
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1000,
+				"h": 650
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 798,
+						"y": 235,
+						"w": 330,
+						"h": 648
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 330,
+						"h": 648
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 798,
+						"y": 235,
+						"w": 332,
+						"h": 647
+					},
+					"frame": {
+						"x": 333,
+						"y": 1,
+						"w": 332,
+						"h": 647
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 798,
+						"y": 235,
+						"w": 332,
+						"h": 647
+					},
+					"frame": {
+						"x": 667,
+						"y": 1,
+						"w": 332,
+						"h": 647
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 987,
+				"h": 650
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Beach girl run.12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 797,
+						"y": 235,
+						"w": 327,
+						"h": 648
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 327,
+						"h": 648
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 797,
+						"y": 235,
+						"w": 327,
+						"h": 648
+					},
+					"frame": {
+						"x": 330,
+						"y": 1,
+						"w": 327,
+						"h": 648
+					}
+				},
+				{
+					"filename": "Scene - Beach girl run.60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 797,
+						"y": 235,
+						"w": 327,
+						"h": 648
+					},
+					"frame": {
+						"x": 659,
+						"y": 1,
+						"w": 327,
+						"h": 648
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:56bba3a40555835d6eff10aa8a9c692c:71256ab821bb05440fe5d3bf572cb6ce:7111125154ab80217ece7e3545d3bbff$"
+	}
+}

@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "coin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1633,
+				"h": 873
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "octopus monster v3 position 4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 35,
+						"w": 417,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 417,
+						"h": 439
+					}
+				},
+				{
+					"filename": "octopus monster v3 position 6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 36,
+						"w": 408,
+						"h": 430
+					},
+					"frame": {
+						"x": 1,
+						"y": 442,
+						"w": 408,
+						"h": 430
+					}
+				},
+				{
+					"filename": "octopus monster v3 position 9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 35,
+						"w": 406,
+						"h": 430
+					},
+					"frame": {
+						"x": 411,
+						"y": 442,
+						"w": 406,
+						"h": 430
+					}
+				},
+				{
+					"filename": "octopus monster v3 position 5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 36,
+						"w": 425,
+						"h": 434
+					},
+					"frame": {
+						"x": 420,
+						"y": 1,
+						"w": 425,
+						"h": 434
+					}
+				},
+				{
+					"filename": "octopus monster v3 position 3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 35,
+						"w": 413,
+						"h": 433
+					},
+					"frame": {
+						"x": 819,
+						"y": 437,
+						"w": 413,
+						"h": 433
+					}
+				},
+				{
+					"filename": "octopus monster v3 position 2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 36,
+						"w": 430,
+						"h": 429
+					},
+					"frame": {
+						"x": 847,
+						"y": 1,
+						"w": 430,
+						"h": 429
+					}
+				},
+				{
+					"filename": "octopus monster v3 position 8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 36,
+						"w": 398,
+						"h": 429
+					},
+					"frame": {
+						"x": 1234,
+						"y": 432,
+						"w": 398,
+						"h": 429
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:176cbf721c141d472b85e58a4a51936c:7555cd7e535bcfb3c0dca0406b4e3307:37dcde439de7f7292f96409a4c62c08e$"
+	}
+}

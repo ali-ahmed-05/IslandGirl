@@ -1,0 +1,1595 @@
+{
+	"textures": [
+		{
+			"image": "octopus_dead.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1816,
+				"h": 1762
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl game octopus dead frame v10001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 452,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 452,
+						"h": 473
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 453,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 453,
+						"h": 461
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 455,
+						"y": 1,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 455,
+						"y": 1,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 455,
+						"y": 1,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 455,
+						"y": 1,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 455,
+						"y": 1,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 451,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 451,
+						"h": 453
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 454,
+						"y": 939,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 454,
+						"y": 939,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 454,
+						"y": 939,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 454,
+						"y": 939,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 456,
+						"y": 456,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 456,
+						"y": 456,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 456,
+						"y": 456,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 456,
+						"y": 456,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 1,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 1,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 435,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 441,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 441,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 441,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 441,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 908,
+						"y": 869,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 881,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 881,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 881,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 452,
+						"h": 438
+					},
+					"frame": {
+						"x": 1363,
+						"y": 881,
+						"w": 452,
+						"h": 438
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 906,
+						"y": 1303,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 906,
+						"y": 1303,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 906,
+						"y": 1303,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 906,
+						"y": 1303,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 453,
+						"h": 432
+					},
+					"frame": {
+						"x": 906,
+						"y": 1303,
+						"w": 453,
+						"h": 432
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1321,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1321,
+						"w": 450,
+						"h": 440
+					}
+				},
+				{
+					"filename": "sorcerer girl game octopus dead frame v10040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 36,
+						"w": 450,
+						"h": 440
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1321,
+						"w": 450,
+						"h": 440
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:04b61a0287b93fe4f5ca40ae67194ed2:343f9570e94d33402c48a1f29a741c9c:a64fafbc207e4e69474bb39b16b02bf6$"
+	}
+}

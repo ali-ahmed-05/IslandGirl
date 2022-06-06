@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "crab_walk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 782,
+				"h": 2043
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "crab monster v2 position 5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 31,
+						"w": 780,
+						"h": 404
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 780,
+						"h": 404
+					}
+				},
+				{
+					"filename": "crab monster v2 position 1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 29,
+						"w": 779,
+						"h": 406
+					},
+					"frame": {
+						"x": 1,
+						"y": 407,
+						"w": 779,
+						"h": 406
+					}
+				},
+				{
+					"filename": "crab monster v2 position 4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 29,
+						"w": 779,
+						"h": 406
+					},
+					"frame": {
+						"x": 1,
+						"y": 815,
+						"w": 779,
+						"h": 406
+					}
+				},
+				{
+					"filename": "crab monster v2 position 3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 25,
+						"w": 778,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1223,
+						"w": 778,
+						"h": 408
+					}
+				},
+				{
+					"filename": "crab monster v2 position 2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 810,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 27,
+						"w": 777,
+						"h": 409
+					},
+					"frame": {
+						"x": 1,
+						"y": 1633,
+						"w": 777,
+						"h": 409
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:710c44b31b39bcd12b16359131c074e3:c45b9a8944025e0a411a09aa1c30a7a3:d6a1906e0cbfd88527523dc5f32b8fcf$"
+	}
+}

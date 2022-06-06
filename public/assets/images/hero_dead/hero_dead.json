@@ -1,0 +1,3065 @@
+{
+	"textures": [
+		{
+			"image": "hero_dead-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3544,
+				"h": 3322
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sorcerer girl frame dead v20090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 604,
+						"w": 1076,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1076,
+						"h": 756
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 116,
+						"w": 560,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 759,
+						"w": 560,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 549,
+						"h": 1188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 549,
+						"h": 1188
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 882,
+						"w": 1222,
+						"h": 478
+					},
+					"frame": {
+						"x": 1079,
+						"y": 1,
+						"w": 1222,
+						"h": 478
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 62,
+						"w": 506,
+						"h": 1224
+					},
+					"frame": {
+						"x": 563,
+						"y": 759,
+						"w": 506,
+						"h": 1224
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 945,
+						"w": 1225,
+						"h": 415
+					},
+					"frame": {
+						"x": 2303,
+						"y": 1,
+						"w": 1225,
+						"h": 415
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 226,
+						"w": 483,
+						"h": 1138
+					},
+					"frame": {
+						"x": 552,
+						"y": 1985,
+						"w": 483,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20145.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1055,
+						"w": 1228,
+						"h": 349
+					},
+					"frame": {
+						"x": 1079,
+						"y": 481,
+						"w": 1228,
+						"h": 349
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1226,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 832,
+						"w": 1226,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1226,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 832,
+						"w": 1226,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20144.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1226,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 832,
+						"w": 1226,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1224,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1233,
+						"w": 1224,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1224,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1233,
+						"w": 1224,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1224,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1233,
+						"w": 1224,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1224,
+						"h": 399
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1233,
+						"w": 1224,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 966,
+						"w": 1227,
+						"h": 394
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1634,
+						"w": 1227,
+						"h": 394
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1216,
+						"h": 399
+					},
+					"frame": {
+						"x": 1037,
+						"y": 2030,
+						"w": 1216,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1216,
+						"h": 399
+					},
+					"frame": {
+						"x": 1037,
+						"y": 2030,
+						"w": 1216,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1216,
+						"h": 399
+					},
+					"frame": {
+						"x": 1037,
+						"y": 2030,
+						"w": 1216,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1214,
+						"h": 399
+					},
+					"frame": {
+						"x": 1037,
+						"y": 2431,
+						"w": 1214,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1214,
+						"h": 399
+					},
+					"frame": {
+						"x": 1037,
+						"y": 2431,
+						"w": 1214,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1214,
+						"h": 399
+					},
+					"frame": {
+						"x": 1037,
+						"y": 2431,
+						"w": 1214,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1213,
+						"h": 399
+					},
+					"frame": {
+						"x": 2309,
+						"y": 418,
+						"w": 1213,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 1005,
+						"w": 1213,
+						"h": 399
+					},
+					"frame": {
+						"x": 2309,
+						"y": 418,
+						"w": 1213,
+						"h": 399
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 406,
+						"w": 604,
+						"h": 954
+					},
+					"frame": {
+						"x": 2309,
+						"y": 819,
+						"w": 604,
+						"h": 954
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 55,
+						"w": 462,
+						"h": 1238
+					},
+					"frame": {
+						"x": 2915,
+						"y": 819,
+						"w": 462,
+						"h": 1238
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 33,
+						"w": 440,
+						"h": 1262
+					},
+					"frame": {
+						"x": 2255,
+						"y": 2059,
+						"w": 440,
+						"h": 1262
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 122,
+						"w": 458,
+						"h": 1214
+					},
+					"frame": {
+						"x": 2697,
+						"y": 2059,
+						"w": 458,
+						"h": 1214
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "sorcerer girl frame dead v20079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1632,
+						"h": 1422
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 320,
+						"w": 386,
+						"h": 1040
+					},
+					"frame": {
+						"x": 3157,
+						"y": 2059,
+						"w": 386,
+						"h": 1040
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8260f21e5ed44c42ad45aa6aac45e483:160089d400003e43af9c0f390af0602b:f24d4d04c4f3dac228d49867803f07ab$"
+	}
+}

@@ -1,0 +1,1671 @@
+{
+	"textures": [
+		{
+			"image": "hero-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 962,
+				"h": 558
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 691,
+						"y": 235,
+						"w": 481,
+						"h": 558
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 481,
+						"h": 558
+					}
+				},
+				{
+					"filename": "Amazon girl run.26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 691,
+						"y": 235,
+						"w": 481,
+						"h": 558
+					},
+					"frame": {
+						"x": 481,
+						"y": 0,
+						"w": 481,
+						"h": 558
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 942,
+				"h": 559
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 700,
+						"y": 235,
+						"w": 461,
+						"h": 559
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 461,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Amazon girl run.50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 691,
+						"y": 235,
+						"w": 481,
+						"h": 558
+					},
+					"frame": {
+						"x": 461,
+						"y": 0,
+						"w": 481,
+						"h": 558
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 944,
+				"h": 544
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 687,
+						"y": 239,
+						"w": 472,
+						"h": 544
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 472,
+						"h": 544
+					}
+				},
+				{
+					"filename": "Amazon girl run.25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 687,
+						"y": 239,
+						"w": 472,
+						"h": 544
+					},
+					"frame": {
+						"x": 472,
+						"y": 0,
+						"w": 472,
+						"h": 544
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 933,
+				"h": 559
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 700,
+						"y": 235,
+						"w": 461,
+						"h": 559
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 461,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Amazon girl run.49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 687,
+						"y": 239,
+						"w": 472,
+						"h": 544
+					},
+					"frame": {
+						"x": 461,
+						"y": 0,
+						"w": 472,
+						"h": 544
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 898,
+				"h": 579
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 715,
+						"y": 241,
+						"w": 437,
+						"h": 579
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 437,
+						"h": 579
+					}
+				},
+				{
+					"filename": "Amazon girl run.62.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 700,
+						"y": 235,
+						"w": 461,
+						"h": 559
+					},
+					"frame": {
+						"x": 437,
+						"y": 0,
+						"w": 461,
+						"h": 559
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 900,
+				"h": 543
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 239,
+						"w": 450,
+						"h": 543
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 450,
+						"h": 543
+					}
+				},
+				{
+					"filename": "Amazon girl run.37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 239,
+						"w": 450,
+						"h": 543
+					},
+					"frame": {
+						"x": 450,
+						"y": 0,
+						"w": 450,
+						"h": 543
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 887,
+				"h": 579
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 715,
+						"y": 241,
+						"w": 437,
+						"h": 579
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 437,
+						"h": 579
+					}
+				},
+				{
+					"filename": "Amazon girl run.61.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 239,
+						"w": 450,
+						"h": 543
+					},
+					"frame": {
+						"x": 437,
+						"y": 0,
+						"w": 450,
+						"h": 543
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 854,
+				"h": 580
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 724,
+						"y": 241,
+						"w": 417,
+						"h": 580
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 417,
+						"h": 580
+					}
+				},
+				{
+					"filename": "Amazon girl run.51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 715,
+						"y": 241,
+						"w": 437,
+						"h": 579
+					},
+					"frame": {
+						"x": 417,
+						"y": 0,
+						"w": 437,
+						"h": 579
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 856,
+				"h": 561
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 695,
+						"y": 269,
+						"w": 428,
+						"h": 561
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 428,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Amazon girl run.35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 695,
+						"y": 269,
+						"w": 428,
+						"h": 561
+					},
+					"frame": {
+						"x": 428,
+						"y": 0,
+						"w": 428,
+						"h": 561
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 856,
+				"h": 521
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 688,
+						"y": 253,
+						"w": 428,
+						"h": 521
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 428,
+						"h": 521
+					}
+				},
+				{
+					"filename": "Amazon girl run.48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 688,
+						"y": 253,
+						"w": 428,
+						"h": 521
+					},
+					"frame": {
+						"x": 428,
+						"y": 0,
+						"w": 428,
+						"h": 521
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 854,
+				"h": 561
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 695,
+						"y": 269,
+						"w": 428,
+						"h": 561
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 428,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Amazon girl run.23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 686,
+						"y": 269,
+						"w": 426,
+						"h": 558
+					},
+					"frame": {
+						"x": 428,
+						"y": 0,
+						"w": 426,
+						"h": 558
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 427,
+				"h": 1017
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 688,
+						"y": 279,
+						"w": 427,
+						"h": 495
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 427,
+						"h": 495
+					}
+				},
+				{
+					"filename": "Amazon girl run.12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 696,
+						"y": 253,
+						"w": 426,
+						"h": 522
+					},
+					"frame": {
+						"x": 0,
+						"y": 495,
+						"w": 426,
+						"h": 522
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 852,
+				"h": 558
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 686,
+						"y": 269,
+						"w": 426,
+						"h": 558
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 426,
+						"h": 558
+					}
+				},
+				{
+					"filename": "Amazon girl run.36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 696,
+						"y": 253,
+						"w": 426,
+						"h": 522
+					},
+					"frame": {
+						"x": 426,
+						"y": 0,
+						"w": 426,
+						"h": 522
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 843,
+				"h": 580
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 724,
+						"y": 241,
+						"w": 417,
+						"h": 580
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 417,
+						"h": 580
+					}
+				},
+				{
+					"filename": "Amazon girl run.60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 696,
+						"y": 253,
+						"w": 426,
+						"h": 522
+					},
+					"frame": {
+						"x": 417,
+						"y": 0,
+						"w": 426,
+						"h": 522
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 813,
+				"h": 602
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 736,
+						"y": 245,
+						"w": 396,
+						"h": 602
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 602
+					}
+				},
+				{
+					"filename": "Amazon girl run.63.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 724,
+						"y": 241,
+						"w": 417,
+						"h": 580
+					},
+					"frame": {
+						"x": 396,
+						"y": 0,
+						"w": 417,
+						"h": 580
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 792,
+				"h": 602
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 736,
+						"y": 245,
+						"w": 396,
+						"h": 602
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 602
+					}
+				},
+				{
+					"filename": "Amazon girl run.52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 736,
+						"y": 245,
+						"w": 396,
+						"h": 602
+					},
+					"frame": {
+						"x": 396,
+						"y": 0,
+						"w": 396,
+						"h": 602
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 782,
+				"h": 582
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 728,
+						"y": 280,
+						"w": 391,
+						"h": 582
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 391,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Amazon girl run.34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 728,
+						"y": 280,
+						"w": 391,
+						"h": 582
+					},
+					"frame": {
+						"x": 391,
+						"y": 0,
+						"w": 391,
+						"h": 582
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1023,
+				"h": 582
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 728,
+						"y": 280,
+						"w": 391,
+						"h": 582
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 391,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Amazon girl run.22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 718,
+						"y": 280,
+						"w": 386,
+						"h": 582
+					},
+					"frame": {
+						"x": 391,
+						"y": 0,
+						"w": 386,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Amazon girl run.08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 846,
+						"y": 289,
+						"w": 246,
+						"h": 574
+					},
+					"frame": {
+						"x": 777,
+						"y": 0,
+						"w": 246,
+						"h": 574
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 602
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 746,
+						"y": 245,
+						"w": 375,
+						"h": 602
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 602
+					}
+				},
+				{
+					"filename": "Amazon girl run.46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 718,
+						"y": 280,
+						"w": 386,
+						"h": 582
+					},
+					"frame": {
+						"x": 375,
+						"y": 0,
+						"w": 386,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Amazon girl run.07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 816,
+						"y": 288,
+						"w": 263,
+						"h": 580
+					},
+					"frame": {
+						"x": 761,
+						"y": 0,
+						"w": 263,
+						"h": 580
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1017,
+				"h": 602
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 746,
+						"y": 245,
+						"w": 375,
+						"h": 602
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 602
+					}
+				},
+				{
+					"filename": "Amazon girl run.64.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 746,
+						"y": 245,
+						"w": 375,
+						"h": 602
+					},
+					"frame": {
+						"x": 375,
+						"y": 0,
+						"w": 375,
+						"h": 602
+					}
+				},
+				{
+					"filename": "Amazon girl run.19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 824,
+						"y": 288,
+						"w": 267,
+						"h": 579
+					},
+					"frame": {
+						"x": 750,
+						"y": 0,
+						"w": 267,
+						"h": 579
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1008,
+				"h": 611
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 255,
+						"w": 336,
+						"h": 611
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 611
+					}
+				},
+				{
+					"filename": "Amazon girl run.17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 769,
+						"y": 255,
+						"w": 336,
+						"h": 611
+					},
+					"frame": {
+						"x": 336,
+						"y": 0,
+						"w": 336,
+						"h": 611
+					}
+				},
+				{
+					"filename": "Amazon girl run.29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 255,
+						"w": 336,
+						"h": 611
+					},
+					"frame": {
+						"x": 672,
+						"y": 0,
+						"w": 336,
+						"h": 611
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 993,
+				"h": 611
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 769,
+						"y": 255,
+						"w": 336,
+						"h": 611
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 611
+					}
+				},
+				{
+					"filename": "Amazon girl run.53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 255,
+						"w": 336,
+						"h": 611
+					},
+					"frame": {
+						"x": 336,
+						"y": 0,
+						"w": 336,
+						"h": 611
+					}
+				},
+				{
+					"filename": "Amazon girl run.09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 786,
+						"y": 280,
+						"w": 321,
+						"h": 581
+					},
+					"frame": {
+						"x": 672,
+						"y": 0,
+						"w": 321,
+						"h": 581
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 952,
+				"h": 582
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 775,
+						"y": 280,
+						"w": 310,
+						"h": 582
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Amazon girl run.33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 786,
+						"y": 280,
+						"w": 321,
+						"h": 581
+					},
+					"frame": {
+						"x": 310,
+						"y": 0,
+						"w": 321,
+						"h": 581
+					}
+				},
+				{
+					"filename": "Amazon girl run.57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 786,
+						"y": 280,
+						"w": 321,
+						"h": 581
+					},
+					"frame": {
+						"x": 631,
+						"y": 0,
+						"w": 321,
+						"h": 581
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 916,
+				"h": 594
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 796,
+						"y": 272,
+						"w": 303,
+						"h": 594
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 303,
+						"h": 594
+					}
+				},
+				{
+					"filename": "Amazon girl run.45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 775,
+						"y": 280,
+						"w": 310,
+						"h": 582
+					},
+					"frame": {
+						"x": 303,
+						"y": 0,
+						"w": 310,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Amazon girl run.42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 796,
+						"y": 272,
+						"w": 303,
+						"h": 594
+					},
+					"frame": {
+						"x": 613,
+						"y": 0,
+						"w": 303,
+						"h": 594
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 870,
+				"h": 595
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 788,
+						"y": 272,
+						"w": 290,
+						"h": 595
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 595
+					}
+				},
+				{
+					"filename": "Amazon girl run.30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 788,
+						"y": 272,
+						"w": 290,
+						"h": 595
+					},
+					"frame": {
+						"x": 290,
+						"y": 0,
+						"w": 290,
+						"h": 595
+					}
+				},
+				{
+					"filename": "Amazon girl run.54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 788,
+						"y": 272,
+						"w": 290,
+						"h": 595
+					},
+					"frame": {
+						"x": 580,
+						"y": 0,
+						"w": 290,
+						"h": 595
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-25.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 793,
+				"h": 580
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 816,
+						"y": 288,
+						"w": 263,
+						"h": 580
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 263,
+						"h": 580
+					}
+				},
+				{
+					"filename": "Amazon girl run.55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 816,
+						"y": 288,
+						"w": 263,
+						"h": 580
+					},
+					"frame": {
+						"x": 263,
+						"y": 0,
+						"w": 263,
+						"h": 580
+					}
+				},
+				{
+					"filename": "Amazon girl run.43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 824,
+						"y": 288,
+						"w": 267,
+						"h": 579
+					},
+					"frame": {
+						"x": 526,
+						"y": 0,
+						"w": 267,
+						"h": 579
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-26.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 992,
+				"h": 574
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Amazon girl run.20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 835,
+						"y": 289,
+						"w": 250,
+						"h": 574
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 574
+					}
+				},
+				{
+					"filename": "Amazon girl run.44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 835,
+						"y": 289,
+						"w": 250,
+						"h": 574
+					},
+					"frame": {
+						"x": 250,
+						"y": 0,
+						"w": 250,
+						"h": 574
+					}
+				},
+				{
+					"filename": "Amazon girl run.32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 846,
+						"y": 289,
+						"w": 246,
+						"h": 574
+					},
+					"frame": {
+						"x": 500,
+						"y": 0,
+						"w": 246,
+						"h": 574
+					}
+				},
+				{
+					"filename": "Amazon girl run.56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 846,
+						"y": 289,
+						"w": 246,
+						"h": 574
+					},
+					"frame": {
+						"x": 746,
+						"y": 0,
+						"w": 246,
+						"h": 574
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6832da7bf0bef333e0b8b8a156608d7a:6d367eb686fe114a16c9f9d6747ce833:4aaceabe3e1ce75d22e6188c8ff4686a$"
+	}
+}
