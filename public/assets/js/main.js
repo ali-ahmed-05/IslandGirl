@@ -623,18 +623,13 @@ class level_1 extends Phaser.Scene {
 
         this.player.anims.stop('heroWalk', false);
 
-        this.time.delayedCall(1000, function () {
-            this.cameras.main.fadeOut(1000, 0, 0, 0)
-        }, [], this);
-
         this.time.delayedCall(2000, function () {
-            if (!this.gameOver) {
-                this.gameOver = true
-                this.scene.start('gameOver');
-            }
+            this.cameras.main.fadeOut(2000, 0, 0, 0)
         }, [], this);
-        // }
-        // }
+        //TODO:: FIX BUG (Game Over screen does not show)
+        this.time.delayedCall(3000, function () {
+            this.scene.start('gameOver');
+        }, [], this);
     }
 
     hitCoin(player, coin) {
