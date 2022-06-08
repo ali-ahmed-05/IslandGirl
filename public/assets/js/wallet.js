@@ -22,30 +22,40 @@ $(document).ready(function () {
                     walletconnect: {
                         package: WalletConnectProvider,
                         options: {
-                            infuraId: process.env.INFRA_URL
+                            infuraId: 'https://bsc-dataseed1.binance.org',
+                            rpc: {
+                                56: " https://bsc-dataseed.binance.org/",
+                            },
                         }
                     }
                 };
 
-                const web3Modal = new Web3Modal({ providerOptions});
-
+                const web3Modal = new Web3Modal({providerOptions});
                 const provider = await web3Modal.connect();
 
-                window.web3 = new Web3(provider);
-                window.ethereum.enable();
-                let ethereum = window.ethereum;
 
-                const data = [{
-                    chainId: '0x38',
-                }]
+                if (provider.isMetaMask) {
+                    /*Meta Mask Connect */
+                    window.web3 = new Web3(window.ethereum);
+                    window.ethereum.enable();
+                    let ethereum = window.ethereum;
 
-                const tx = await ethereum.request({
-                    method: 'wallet_switchEthereumChain',
-                    params: data
-                }).catch()
+                    const data = [{
+                        chainId: '0x38',
+                    }]
 
-                if (tx) {
-                    // console.log(tx)
+                    const tx = await ethereum.request({
+                        method: 'wallet_switchEthereumChain',
+                        params: data
+                    }).catch()
+
+                    if (tx) {
+                        // console.log(tx)
+                    }
+                }else {
+                    /*Wallet Connect */
+                    // window.web3 = new Web3(provider);
+                    alert("Working")
                 }
 
             }
