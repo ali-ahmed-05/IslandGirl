@@ -951,7 +951,24 @@ class Loader extends Phaser.Scene {
 
         this.load.atlas('grass', './assets/images/grass.png', './assets/images/grass.json');
         // this.load.atlas('hero', './assets/images/hero-2.png', './assets/images/hero.json');
-        this.load.multiatlas('hero', './assets/images/hero6/hero.json', './assets/images/hero6');
+
+        //TODO:: Hero
+        this.load.multiatlas('hero', './assets/images/hero/hero.json', './assets/images/hero');
+        //TODO:: Hero 1
+        // this.load.multiatlas('hero', './assets/images/hero1/hero.json', './assets/images/hero1');
+        //TODO:: Hero 2
+        // this.load.multiatlas('hero', './assets/images/hero2/hero.json', './assets/images/hero2');
+        //TODO:: Hero 3
+        // this.load.multiatlas('hero', './assets/images/hero3/hero.json', './assets/images/hero3');
+        //TODO:: Hero 4
+        // this.load.multiatlas('hero', './assets/images/hero4/hero.json', './assets/images/hero4');
+        //TODO:: Hero 5
+        // this.load.multiatlas('hero', './assets/images/hero5/hero.json', './assets/images/hero5');
+        //TODO:: Hero 6
+        // this.load.multiatlas('hero', './assets/images/hero6/hero.json', './assets/images/hero6');
+
+
+
         this.load.multiatlas('hero_dead', './assets/images/hero_dead/hero_dead.json', './assets/images/hero_dead');
 
         this.load.multiatlas('crab_dead', './assets/images/crab_dead/crab_dead.json', './assets/images/crab_dead');
