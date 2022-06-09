@@ -139,6 +139,14 @@ class titleScene extends Phaser.Scene {
                             this.checkBalance = await window.WalletFunction.balanceOf(checkAccount[0])
 
                             if (this.checkBalance <= 0) {
+                                const nfts = [];
+                                {
+                                    Array(3).fill(0).map(async (value, index) => {
+                                        const owner = await window.WalletFunction.getTokenByIndex(index);
+                                        const token = await window.WalletFunction.getTokenURI(owner);
+                                        nfts.push(token);
+                                    })
+                                }
                                 this.cameras.main.fadeOut(1000, 0, 0, 0)
                                 this.playAndEarn.setScale(0.5)
                                 this.time.delayedCall(1000, () => {
@@ -152,7 +160,6 @@ class titleScene extends Phaser.Scene {
                     }, 1000);
 
 
-
                 } catch (error) {
                     console.log(error);
                 }
@@ -160,7 +167,6 @@ class titleScene extends Phaser.Scene {
 
 
         })
-
 
 
     }
@@ -283,7 +289,6 @@ class level_1 extends Phaser.Scene {
         // this.player.displayWidth = 100;
 
 
-
         // // Floor
         this.floor = this.physics.add.staticGroup();
         this.ditchBlock = this.physics.add.staticGroup();
@@ -301,8 +306,6 @@ class level_1 extends Phaser.Scene {
             }
 
         }
-
-
 
 
         // this.scaleRatio = window.devicePixelRatio / 15;
@@ -461,7 +464,6 @@ class level_1 extends Phaser.Scene {
         this.anims.create(animOctopusDeadConfig);
 
 
-
         this.blocks = this.physics.add.staticGroup();
         this.hurdle_count = Math.round((world_config.worldWidth) / this.textures.get('hurdle_1').getSourceImage().width);
         for (let index = 1; index <= this.hurdle_count; index++) {
@@ -495,10 +497,8 @@ class level_1 extends Phaser.Scene {
         }
 
 
-
         // //Keyboard
         this.spaceBar = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
-
 
 
         // COIN COUNTER
@@ -524,8 +524,6 @@ class level_1 extends Phaser.Scene {
         this.scoreBoard.add(this.life);
         this.scoreBoard.add(this.scoreText);
         // this.physics.world.enableBody(this.scoreBoard);
-
-
 
 
         // COIN COUNTER
@@ -608,6 +606,7 @@ class level_1 extends Phaser.Scene {
         this.playerJumpRotationAndShadow();
 
     }
+
     dropToDitch(player, block) {
         // console.log('====>',block.body.overlapY);
         // if (block.body.touching.left) {
@@ -710,6 +709,7 @@ class level_1 extends Phaser.Scene {
             }
         }
     }
+
     hitFire(player, fire) {
         if (!this.gameOver) {
             if (fire.body.touching.up) {
@@ -734,6 +734,7 @@ class level_1 extends Phaser.Scene {
             }
         }
     }
+
     playerJumpRotationAndShadow() {
         if (this.touchGroud && this.player.body.deltaY() < 0) {
             this.playerShadow.scaleX -= 0.0019;
@@ -906,11 +907,11 @@ class gameLevelCompleted extends Phaser.Scene {
 
             axios.post('https://island-girl.herokuapp.com/api/admin/release', data, axiosHeader).then((res) => {
                 if (res.data.message) {
-                alert('Successfully Earn')
+                    alert('Successfully Earn')
                 }
                 location.reload();
             }).catch(e => {
-               location.reload();
+                location.reload();
             })
         } catch (e) {
             location.reload();
@@ -924,7 +925,8 @@ class Loader extends Phaser.Scene {
         super('Loader');
     }
 
-    preload() {}
+    preload() {
+    }
 
     create() {
 
@@ -966,7 +968,6 @@ class Loader extends Phaser.Scene {
         // this.load.multiatlas('hero', './assets/images/hero5/hero.json', './assets/images/hero5');
         //TODO:: Hero 6
         // this.load.multiatlas('hero', './assets/images/hero6/hero.json', './assets/images/hero6');
-
 
 
         this.load.multiatlas('hero_dead', './assets/images/hero_dead/hero_dead.json', './assets/images/hero_dead');
@@ -1021,7 +1022,6 @@ class Loader extends Phaser.Scene {
             this.scene.start('titleScene');
         });
         this.load.start();
-
 
 
     }
