@@ -73,13 +73,13 @@ $(document).ready(function () {
             return balance
         },
 
-        getTokenByIndex: async (address) => {
+        tokenByIndex: async (address) => {
             const islandGirlContractMethods = new web3.eth.Contract(NftAbi, NftAddress);
             const owner = await islandGirlContractMethods.methods.tokenByIndex(address).call()
             return owner;
         },
 
-        getTokenURI: async (address) => {
+        tokenURI: async (address) => {
             const islandGirlContractMethods = new web3.eth.Contract(NftAbi, NftAddress);
             const token = await islandGirlContractMethods.methods.tokenURI(address).call()
             return token;

@@ -142,8 +142,8 @@ class titleScene extends Phaser.Scene {
                                 const nfts = [];
                                 {
                                     Array(3).fill(0).map(async (value, index) => {
-                                        const owner = await window.WalletFunction.getTokenByIndex(index);
-                                        const token = await window.WalletFunction.getTokenURI(owner);
+                                        const owner = await window.WalletFunction.tokenByIndex(checkAccount[0]);
+                                        const token = await window.WalletFunction.tokenURI(owner);
                                         nfts.push(token);
                                     })
                                 }
