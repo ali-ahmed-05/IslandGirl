@@ -119,11 +119,9 @@ class titleScene extends Phaser.Scene {
 
 
             let checkConnection = await window.WalletFunction.checkConnection()
-
-            if (!checkConnection) {
+            // console.log(checkConnection)
+            if (checkConnection) {
                 try {
-
-
                     await window.WalletFunction.loadWeb3()
 
                     // Checking wallet connect or not
@@ -132,21 +130,30 @@ class titleScene extends Phaser.Scene {
                     var checkWalletConnection = setInterval(async () => {
 
                         checkAccount = await window.web3.eth.getAccounts();
+
+
                         if (checkAccount.length > 0) {
 
                             localStorage.setItem('address', checkAccount[0])
                             clearInterval(checkWalletConnection);
                             this.checkBalance = await window.WalletFunction.balanceOf(checkAccount[0])
 
-                            if (this.checkBalance <= 0) {
-                                const nfts = [];
-                                {
-                                    Array(3).fill(0).map(async (value, index) => {
-                                        const owner = await window.WalletFunction.tokenByIndex(checkAccount[0]);
-                                        const token = await window.WalletFunction.tokenURI(owner);
-                                        nfts.push(token);
-                                    })
-                                }
+                            console.log('ACOUNT ADDRESS', checkAccount[0]);
+                            console.log('BALANCE', this.checkBalance);
+
+
+                            window.MoralisFunctions.initialize();
+                            // await window.MoralisFunctions.authenticate(checkAccount[0]);
+                            const userNFTs = await window.MoralisFunctions.getNFTs(checkAccount[0])
+                            const userNFTsNames = userNFTs.length > 0 && userNFTs
+                                .map(userNFT => JSON.parse(userNFT.metadata));
+
+                            console.log(userNFTsNames);
+
+
+
+
+                            if (this.checkBalance > 0) {
                                 this.cameras.main.fadeOut(1000, 0, 0, 0)
                                 this.playAndEarn.setScale(0.5)
                                 this.time.delayedCall(1000, () => {
@@ -254,7 +261,7 @@ class level_1 extends Phaser.Scene {
         const animDeadConfig = {
             key: 'heroDead',
             frames: 'hero_dead',
-            frameRate: 120,
+            frameRate: 150,
             repeat: 0
         };
         this.anims.create(animDeadConfig);
@@ -276,7 +283,7 @@ class level_1 extends Phaser.Scene {
         this.playerBound.visible = false;
 
         this.player = this.physics.add.sprite(0, 0, 'hero', 'frame_0000', 8);
-        this.player.setScale(0.25);
+        this.player.setScale(0.35);
         this.player.setCollideWorldBounds(true);
         this.player.setOrigin(0);
         this.player.width = 20
@@ -955,9 +962,9 @@ class Loader extends Phaser.Scene {
         // this.load.atlas('hero', './assets/images/hero-2.png', './assets/images/hero.json');
 
         //TODO:: Hero
-        this.load.multiatlas('hero', './assets/images/hero/hero.json', './assets/images/hero');
+        // this.load.multiatlas('hero', './assets/images/hero/hero.json', './assets/images/hero');
         //TODO:: Hero 1
-        // this.load.multiatlas('hero', './assets/images/hero1/hero.json', './assets/images/hero1');
+        this.load.multiatlas('hero', './assets/images/hero1/hero.json', './assets/images/hero1');
         //TODO:: Hero 2
         // this.load.multiatlas('hero', './assets/images/hero2/hero.json', './assets/images/hero2');
         //TODO:: Hero 3
@@ -970,7 +977,8 @@ class Loader extends Phaser.Scene {
         // this.load.multiatlas('hero', './assets/images/hero6/hero.json', './assets/images/hero6');
 
 
-        this.load.multiatlas('hero_dead', './assets/images/hero_dead/hero_dead.json', './assets/images/hero_dead');
+        // this.load.multiatlas('hero_dead', './assets/images/hero_dead/hero_dead.json', './assets/images/hero_dead');
+        this.load.multiatlas('hero_dead', './assets/images/hero1_dead/hero-dead.json', './assets/images/hero1_dead');
 
         this.load.multiatlas('crab_dead', './assets/images/crab_dead/crab_dead.json', './assets/images/crab_dead');
         this.load.atlas('crab', './assets/images/crab/crab_walk.png', './assets/images/crab/crab_walk.json');

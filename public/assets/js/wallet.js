@@ -2,60 +2,33 @@ const Web3Modal = window.Web3Modal.default;
 const WalletConnectProvider = window.WalletConnectProvider.default;
 
 $(document).ready(function () {
-    WalletFunction = {
+    let WalletFunction = {
         checkConnection: async function () {
-            let web;
-            if (window.ethereum) {
-                web3 = new Web3(window.ethereum);
-            } else if (window.web3) {
-                web3 = new Web3(window.web3.currentProvider);
-            };
-
-            return web
+            if (window.ethereum)
+                return new Web3(window.ethereum);
+            else if (window.web3)
+                return new Web3(window.web3.currentProvider);
         },
 
         // Connect Wallet
         loadWeb3: async function () {
             if (window.ethereum) {
+                /*Meta Mask Connect */
+                window.web3 = new Web3(window.ethereum);
+                window.ethereum.enable();
+                let ethereum = window.ethereum;
 
-                const providerOptions = {
-                    walletconnect: {
-                        package: WalletConnectProvider,
-                        options: {
-                            infuraId: 'https://bsc-dataseed1.binance.org',
-                            rpc: {
-                                56: " https://bsc-dataseed.binance.org/",
-                            },
-                        }
-                    }
-                };
+                const data = [{
+                    chainId: '0x61',
+                }]
 
-                const web3Modal = new Web3Modal({providerOptions});
-                const provider = await web3Modal.connect();
+                const tx = await ethereum.request({
+                    method: 'wallet_switchEthereumChain',
+                    params: data
+                }).catch()
 
-
-                if (provider.isMetaMask) {
-                    /*Meta Mask Connect */
-                    window.web3 = new Web3(window.ethereum);
-                    window.ethereum.enable();
-                    let ethereum = window.ethereum;
-
-                    const data = [{
-                        chainId: '0x38',
-                    }]
-
-                    const tx = await ethereum.request({
-                        method: 'wallet_switchEthereumChain',
-                        params: data
-                    }).catch()
-
-                    if (tx) {
-                        // console.log(tx)
-                    }
-                }else {
-                    /*Wallet Connect */
-                    // window.web3 = new Web3(provider);
-                    alert("Working")
+                if (tx) {
+                    // console.log(tx)
                 }
 
             }
@@ -79,14 +52,45 @@ $(document).ready(function () {
             return owner;
         },
 
-        tokenURI: async (address) => {
+        tokenURI: async (tokenId) => {
             const islandGirlContractMethods = new web3.eth.Contract(NftAbi, NftAddress);
-            const token = await islandGirlContractMethods.methods.tokenURI(address).call()
+            const token = await islandGirlContractMethods.methods.tokenURI(tokenId).call()
             return token;
         }
+    };
+
+    let MoralisFunctions = {
+        // Initialize the Moralis
+        initialize: function () {
+            const serverUrl = 'https://iinhdvm4pmas.usemoralis.com:2053/server';
+            const appId = 'iiLXZPaGQ3XgOjG0bxF62aB1AzuvPqydFJLST2hp';
+            Moralis.start({serverUrl, appId});
+        },
+
+        // Moralis Authentication
+        authenticate: async function (address) {
+            try {
+                const user = await Moralis.authenticate({address});
+                console.log({user});
+            } catch (error) {
+                console.log(error);
+            }
+        },
+        logout: async function logOut() {
+            await Moralis.User.logOut();
+            console.log("logged out");
+        },
+        getNFTs: async function (address) {
+            const config = {chain: '0x61', token_address: NftAddress, address};
+            const userNFTs = await Moralis.Web3API.account.getNFTs(config);
+            return userNFTs.result;
+        },
+
+
     }
 
 
-    window.WalletFunction = WalletFunction
+    window.WalletFunction = WalletFunction;
+    window.MoralisFunctions = MoralisFunctions;
 
 });

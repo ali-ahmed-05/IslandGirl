@@ -1,4 +1,4 @@
-const NftAddress = '0xb5763b4ab4206C96D80EC630cC179A5252508d1F';
+const NftAddress = '0x58a83b18c4120d4d38ca232abb6153bf3b8d1b37';
 const NftAbi = [
     {
         "inputs": [
