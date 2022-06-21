@@ -148,17 +148,17 @@ class titleScene extends Phaser.Scene {
                             const userNFTsNames = userNFTs.length > 0 && userNFTs
                                 .map(userNFT => JSON.parse(userNFT.metadata));
 
-                            console.log(userNFTsNames);
-
-
+                            // console.log(userNFTsNames);
 
 
                             if (this.checkBalance > 0) {
-                                this.cameras.main.fadeOut(1000, 0, 0, 0)
-                                this.playAndEarn.setScale(0.5)
-                                this.time.delayedCall(1000, () => {
-                                    this.scene.start('level_1');
-                                })
+                                this.scene.start('characters', {userNFTsNames});
+                                // this.cameras.main.fadeOut(1000, 0, 0, 0)
+                                // this.playAndEarn.setScale(0.5)
+
+                                // this.time.delayedCall(1000, () => {
+                                //     this.scene.start('level_1');
+                                // })
                             } else {
                                 alert('You Cannot Play')
                             }
@@ -197,6 +197,30 @@ class level_1 extends Phaser.Scene {
         super('level_1');
     }
 
+    init(data) {
+        this.currentPlayer = data.player
+        switch (data.player){
+            case 'Lily':
+                this.currentPlayer = 'hero'
+                break;
+            case 'Manda':
+                this.currentPlayer = 'hero'
+                break;
+            case 'Chralotte':
+                this.currentPlayer = 'hero2'
+                break;
+            case 'Ria':
+                this.currentPlayer = 'hero3'
+                break;
+            case 'Alice':
+                this.currentPlayer = 'hero4'
+                break;
+            case 'Esmeralda':
+                this.currentPlayer = 'hero5'
+                break;
+        }
+    }
+
     preload() {
 
         this.count = 0;
@@ -225,7 +249,6 @@ class level_1 extends Phaser.Scene {
 
     create() {
 
-
         this.level_start = this.add.image(400, innerHeight - 90, "level_1_board");
         this.level_start.setScale(.1)
         this.level_start.setDepth(1)
@@ -249,10 +272,11 @@ class level_1 extends Phaser.Scene {
         }
 
 
+        /*TODO::Hero used 1*/
         // Player
         const animHeroConfig = {
             key: 'heroWalk',
-            frames: 'hero',
+            frames: this.currentPlayer,
             frameRate: 20,
             repeat: 1
         };
@@ -282,7 +306,8 @@ class level_1 extends Phaser.Scene {
         this.playerBound.setDepth(1)
         this.playerBound.visible = false;
 
-        this.player = this.physics.add.sprite(0, 0, 'hero', 'frame_0000', 8);
+        /*TODO:: Hero used*/
+        this.player = this.physics.add.sprite(0, 0, this.currentPlayer, 'frame_0000', 8);
         this.player.setScale(0.35);
         this.player.setCollideWorldBounds(true);
         this.player.setOrigin(0);
@@ -777,6 +802,60 @@ class level_1 extends Phaser.Scene {
     }
 }
 
+class characters extends Phaser.Scene {
+    constructor() {
+        super('characters');
+    }
+
+    init(data) {
+        console.log(data);
+        this.players = data.userNFTsNames;
+    }
+
+    preload() {
+        this.load.image('character_bg', '../assets/images/characters/character_bg.png');
+        this.load.image("Alice", "../assets/images/characters/Alice.png");
+        this.load.image("Chralotte", "../assets/images/characters/Chralotte.png");
+        this.load.image("Esmeralda", "../assets/images/characters/Esmeralda.png");
+        this.load.image("Lily", "../assets/images/characters/Lily.png");
+        this.load.image("Lily", "../assets/images/characters/Lily.png");
+        this.load.image("Manda", "../assets/images/characters/Manda.png");
+        this.load.image("Ria", "../assets/images/characters/Ria.png");
+    }
+
+    create() {
+        const ref = this;
+
+        this.background = this.add.image(0, 0, "bg").setOrigin(0, 0);
+
+        const characters = []
+        let gape = 0.4;
+
+        this.players.forEach(function (player, index) {
+            gape += 0.3;
+            characters[index] = ref.add.image(innerWidth / 2 * gape, innerHeight * 0.3, player.name);
+            characters[index].setScale(0.2);
+
+            ref.add.text(innerWidth / 2 * gape - 40, innerHeight * 0.4, player.name, {
+                fontFamily: 'Georgia, "Goudy Bookletter 1911", Times, serif'
+            });
+        });
+
+        characters.forEach(function (character) {
+            ref.onCharacterSelect(character, character.texture.key)
+        });
+
+    }
+
+
+    onCharacterSelect(btn, player) {
+        btn.setInteractive()
+        btn.on('pointerdown', () => {
+            this.scene.start('level_1', {player});
+        })
+    }
+}
+
 class gameOver extends Phaser.Scene {
 
     constructor() {
@@ -966,15 +1045,15 @@ class Loader extends Phaser.Scene {
         //TODO:: Hero 1
         this.load.multiatlas('hero', './assets/images/hero1/hero.json', './assets/images/hero1');
         //TODO:: Hero 2
-        // this.load.multiatlas('hero', './assets/images/hero2/hero.json', './assets/images/hero2');
+        this.load.multiatlas('hero2', './assets/images/hero2/hero.json', './assets/images/hero2');
         //TODO:: Hero 3
-        // this.load.multiatlas('hero', './assets/images/hero3/hero.json', './assets/images/hero3');
+        this.load.multiatlas('hero3', './assets/images/hero3/hero.json', './assets/images/hero3');
         //TODO:: Hero 4
-        // this.load.multiatlas('hero', './assets/images/hero4/hero.json', './assets/images/hero4');
+        this.load.multiatlas('hero4', './assets/images/hero4/hero.json', './assets/images/hero4');
         //TODO:: Hero 5
-        // this.load.multiatlas('hero', './assets/images/hero5/hero.json', './assets/images/hero5');
+        this.load.multiatlas('hero5', './assets/images/hero5/hero.json', './assets/images/hero5');
         //TODO:: Hero 6
-        // this.load.multiatlas('hero', './assets/images/hero6/hero.json', './assets/images/hero6');
+        this.load.multiatlas('hero6', './assets/images/hero6/hero.json', './assets/images/hero6');
 
 
         // this.load.multiatlas('hero_dead', './assets/images/hero_dead/hero_dead.json', './assets/images/hero_dead');
@@ -1057,7 +1136,7 @@ var config = {
             debug: false
         }
     },
-    scene: [Loader, titleScene, level_1, gameOver, gameLevelCompleted]
+    scene: [Loader, titleScene, level_1, gameOver, gameLevelCompleted, characters]
 };
 
 
