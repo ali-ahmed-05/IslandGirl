@@ -119,7 +119,8 @@ class titleScene extends Phaser.Scene {
 
 
             let checkConnection = await window.WalletFunction.checkConnection()
-            // console.log(checkConnection)
+
+
             if (checkConnection) {
                 try {
                     await window.WalletFunction.loadWeb3()
@@ -138,30 +139,29 @@ class titleScene extends Phaser.Scene {
                             clearInterval(checkWalletConnection);
                             this.checkBalance = await window.WalletFunction.balanceOf(checkAccount[0])
 
-                            console.log('ACOUNT ADDRESS', checkAccount[0]);
-                            console.log('BALANCE', this.checkBalance);
+                            // console.log('ACOUNT ADDRESS', checkAccount[0]);
+                            // console.log('BALANCE', this.checkBalance);
 
 
                             window.MoralisFunctions.initialize();
                             // await window.MoralisFunctions.authenticate(checkAccount[0]);
                             const userNFTs = await window.MoralisFunctions.getNFTs(checkAccount[0])
-                            const userNFTsNames = userNFTs.length > 0 && userNFTs
-                                .map(userNFT => JSON.parse(userNFT.metadata));
+                            const userNFTsNames = userNFTs.length > 0
+                                ? userNFTs.map(userNFT => JSON.parse(userNFT.metadata))
+                                : [];
 
-                            // console.log(userNFTsNames);
+                            if(this.checkBalance <= 0)
+                                return alert('You Cannot Play')
 
+                            if(userNFTsNames.length > 0)
+                                return this.scene.start('characters', {userNFTsNames});
 
-                            if (this.checkBalance > 0) {
-                                this.scene.start('characters', {userNFTsNames});
-                                // this.cameras.main.fadeOut(1000, 0, 0, 0)
-                                // this.playAndEarn.setScale(0.5)
+                            this.cameras.main.fadeOut(1000, 0, 0, 0)
+                            this.playAndEarn.setScale(0.5)
 
-                                // this.time.delayedCall(1000, () => {
-                                //     this.scene.start('level_1');
-                                // })
-                            } else {
-                                alert('You Cannot Play')
-                            }
+                            this.time.delayedCall(1000, () => {
+                                this.scene.start('level_1');
+                            })
                         }
 
                     }, 1000);
@@ -174,8 +174,6 @@ class titleScene extends Phaser.Scene {
 
 
         })
-
-
     }
 
     update() {
@@ -198,6 +196,9 @@ class level_1 extends Phaser.Scene {
     }
 
     init(data) {
+        /*  TODO::STATIC CHARACTER    */
+        // return this.currentPlayer = 'hero6';
+        /*  TODO::STATIC CHARACTER    */
         this.currentPlayer = data.player
         switch (data.player){
             case 'Lily':
@@ -217,6 +218,9 @@ class level_1 extends Phaser.Scene {
                 break;
             case 'Esmeralda':
                 this.currentPlayer = 'hero5'
+                break;
+            default:
+                this.currentPlayer = 'hero6'
                 break;
         }
     }
