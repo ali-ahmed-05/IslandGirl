@@ -1,0 +1,3714 @@
+{
+	"textures": [
+		{
+			"image": "hero_dead-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1912,
+				"h": 1238
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Pirate girl v10001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 298,
+						"h": 1236
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 298,
+						"h": 1236
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 8,
+						"w": 328,
+						"h": 1228
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 328,
+						"h": 1228
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 46,
+						"w": 362,
+						"h": 1202
+					},
+					"frame": {
+						"x": 931,
+						"y": 1,
+						"w": 362,
+						"h": 1202
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10145.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 1166,
+						"y": 1212,
+						"w": 310,
+						"h": 92
+					},
+					"frame": {
+						"x": 1295,
+						"y": 1,
+						"w": 310,
+						"h": 92
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10146.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 1196,
+						"y": 1186,
+						"w": 304,
+						"h": 92
+					},
+					"frame": {
+						"x": 1607,
+						"y": 1,
+						"w": 304,
+						"h": 92
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2012,
+				"h": 1222
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Pirate girl v10020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 456,
+						"h": 1220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1220
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 486,
+						"h": 1210
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 486,
+						"h": 1210
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 178,
+						"w": 494,
+						"h": 1110
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 494,
+						"h": 1110
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 242,
+						"w": 568,
+						"h": 1052
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 568,
+						"h": 1052
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1274,
+				"h": 1976
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Pirate girl v10080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 360,
+						"w": 870,
+						"h": 936
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 936
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 582,
+						"w": 1186,
+						"h": 714
+					},
+					"frame": {
+						"x": 1,
+						"y": 939,
+						"w": 1186,
+						"h": 714
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1655,
+						"w": 1272,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1290,
+				"h": 1978
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Pirate girl v10100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 952,
+						"w": 1284,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 344
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 972,
+						"w": 1280,
+						"h": 324
+					},
+					"frame": {
+						"x": 1,
+						"y": 347,
+						"w": 1280,
+						"h": 324
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1278,
+						"h": 330
+					},
+					"frame": {
+						"x": 1,
+						"y": 673,
+						"w": 1278,
+						"h": 330
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1278,
+						"h": 330
+					},
+					"frame": {
+						"x": 1,
+						"y": 673,
+						"w": 1278,
+						"h": 330
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1278,
+						"h": 330
+					},
+					"frame": {
+						"x": 1,
+						"y": 673,
+						"w": 1278,
+						"h": 330
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1278,
+						"h": 330
+					},
+					"frame": {
+						"x": 1,
+						"y": 673,
+						"w": 1278,
+						"h": 330
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1288,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1005,
+						"w": 1288,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1288,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1005,
+						"w": 1288,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1288,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1005,
+						"w": 1288,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1282,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1327,
+						"w": 1282,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1282,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1327,
+						"w": 1282,
+						"h": 320
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1649,
+						"w": 1272,
+						"h": 328
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1272,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1649,
+						"w": 1272,
+						"h": 328
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1366,
+				"h": 1636
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Pirate girl v10134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1290,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1290,
+						"h": 328
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1290,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1290,
+						"h": 328
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 976,
+						"w": 1290,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1290,
+						"h": 328
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Pirate girl v10144.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1760,
+						"h": 1440
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 1364,
+						"h": 1304
+					},
+					"frame": {
+						"x": 1,
+						"y": 331,
+						"w": 1364,
+						"h": 1304
+					},
+					"anchor": {
+						"x": -0.22727273,
+						"y": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f1ee0abdc8bdc3529e534eff365b0ca1:9f40f10d18e4c5f7f6cb738f8edc1712:bd449ea7b477a5ee3ea4c9e2b10dce86$"
+	}
+}

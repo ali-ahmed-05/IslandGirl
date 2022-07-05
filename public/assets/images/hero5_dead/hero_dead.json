@@ -1,0 +1,3714 @@
+{
+	"textures": [
+		{
+			"image": "hero_dead-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1882,
+				"h": 1354
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Beach girl v10001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 460,
+						"h": 1352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 1352
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 478,
+						"h": 1348
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 478,
+						"h": 1348
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 468,
+						"h": 1334
+					},
+					"frame": {
+						"x": 943,
+						"y": 1,
+						"w": 468,
+						"h": 1334
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 68,
+						"w": 468,
+						"h": 1286
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1,
+						"w": 468,
+						"h": 1286
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1786,
+				"h": 1268
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Beach girl v10040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 104,
+						"w": 488,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1264
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 116,
+						"w": 416,
+						"h": 1266
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 416,
+						"h": 1266
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 170,
+						"w": 414,
+						"h": 1240
+					},
+					"frame": {
+						"x": 909,
+						"y": 1,
+						"w": 414,
+						"h": 1240
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 328,
+						"w": 460,
+						"h": 1132
+					},
+					"frame": {
+						"x": 1325,
+						"y": 1,
+						"w": 460,
+						"h": 1132
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1286,
+				"h": 1642
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Beach girl v10080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 476,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 388,
+						"w": 510,
+						"h": 1084
+					},
+					"frame": {
+						"x": 479,
+						"y": 1,
+						"w": 510,
+						"h": 1084
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 940,
+						"w": 1284,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1087,
+						"w": 1284,
+						"h": 554
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1328,
+				"h": 1672
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Beach girl v10110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1316,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1316,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1310,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1310,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1314,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 837,
+						"w": 1314,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1314,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 837,
+						"w": 1314,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1314,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 837,
+						"w": 1314,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1314,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 837,
+						"w": 1314,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1326,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1255,
+						"w": 1326,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1326,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1255,
+						"w": 1326,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1326,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1255,
+						"w": 1326,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1334,
+				"h": 1962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Beach girl v10137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1324,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1324,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1324,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1324,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1108,
+						"w": 1324,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1324,
+						"h": 416
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1318,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1318,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1318,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1318,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1310,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 805,
+						"w": 1310,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1310,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 805,
+						"w": 1310,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10144.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1310,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 805,
+						"w": 1310,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10145.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1332,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 1191,
+						"w": 1332,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				},
+				{
+					"filename": "Beach girl v10146.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1772,
+						"h": 1570
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 1116,
+						"w": 1310,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 1577,
+						"w": 1310,
+						"h": 384
+					},
+					"anchor": {
+						"x": -0.22573363431151242,
+						"y": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:15a041e2ad225584a4d15ed1fceffdd5:c8ddf30684275a10cdfc4beb373d1261:bd449ea7b477a5ee3ea4c9e2b10dce86$"
+	}
+}

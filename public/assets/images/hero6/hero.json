@@ -4,13 +4,13 @@
 			"image": "hero-0.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1584,
-				"h": 2039
+				"w": 1653,
+				"h": 2018
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Amazon girl run.05.png",
+					"filename": "x2 smooth.00.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -18,20 +18,20 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 621,
-						"y": 79,
-						"w": 650,
-						"h": 1181
+						"x": 474,
+						"y": 132,
+						"w": 831,
+						"h": 963
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 650,
-						"h": 1181
+						"w": 831,
+						"h": 963
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.02.png",
+					"filename": "x2 smooth.25.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -39,20 +39,20 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 487,
-						"y": 40,
-						"w": 930,
-						"h": 1079
+						"x": 502,
+						"y": 73,
+						"w": 818,
+						"h": 1006
 					},
 					"frame": {
-						"x": 653,
+						"x": 834,
 						"y": 1,
-						"w": 930,
-						"h": 1079
+						"w": 818,
+						"h": 1006
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.00.png",
+					"filename": "x2 smooth.01.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -60,16 +60,37 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 481,
-						"y": 126,
-						"w": 824,
-						"h": 956
+						"x": 486,
+						"y": 73,
+						"w": 822,
+						"h": 1008
 					},
 					"frame": {
-						"x": 653,
-						"y": 1082,
-						"w": 824,
-						"h": 956
+						"x": 1,
+						"y": 1009,
+						"w": 822,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "x2 smooth.49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 486,
+						"y": 73,
+						"w": 822,
+						"h": 1008
+					},
+					"frame": {
+						"x": 825,
+						"y": 1009,
+						"w": 822,
+						"h": 1008
 					}
 				}
 			]
@@ -78,13 +99,13 @@
 			"image": "hero-1.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1678,
-				"h": 1165
+				"w": 1663,
+				"h": 1020
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Amazon girl run.04.png",
+					"filename": "x2 smooth.24.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -92,20 +113,20 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 575,
-						"y": 60,
-						"w": 763,
-						"h": 1163
+						"x": 491,
+						"y": 84,
+						"w": 827,
+						"h": 1018
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 763,
-						"h": 1163
+						"w": 827,
+						"h": 1018
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.01.png",
+					"filename": "x2 smooth.48.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -113,16 +134,16 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 479,
-						"y": 48,
-						"w": 911,
-						"h": 1051
+						"x": 474,
+						"y": 84,
+						"w": 832,
+						"h": 1012
 					},
 					"frame": {
-						"x": 766,
+						"x": 830,
 						"y": 1,
-						"w": 911,
-						"h": 1051
+						"w": 832,
+						"h": 1012
 					}
 				}
 			]
@@ -131,13 +152,13 @@
 			"image": "hero-2.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 2029,
-				"h": 1152
+				"w": 1717,
+				"h": 1039
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Amazon girl run.06.png",
+					"filename": "x2 smooth.02.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -145,20 +166,20 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 674,
-						"y": 111,
-						"w": 560,
-						"h": 1150
+						"x": 486,
+						"y": 59,
+						"w": 879,
+						"h": 1037
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 560,
-						"h": 1150
+						"w": 879,
+						"h": 1037
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.03.png",
+					"filename": "x2 smooth.26.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -166,37 +187,16 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 533,
-						"y": 52,
-						"w": 845,
-						"h": 1119
+						"x": 507,
+						"y": 59,
+						"w": 834,
+						"h": 1036
 					},
 					"frame": {
-						"x": 563,
+						"x": 882,
 						"y": 1,
-						"w": 845,
-						"h": 1119
-					}
-				},
-				{
-					"filename": "Scene - Amazon girl run.09.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 2013,
-						"h": 1261
-					},
-					"spriteSourceSize": {
-						"x": 670,
-						"y": 127,
-						"w": 618,
-						"h": 1126
-					},
-					"frame": {
-						"x": 1410,
-						"y": 1,
-						"w": 618,
-						"h": 1126
+						"w": 834,
+						"h": 1036
 					}
 				}
 			]
@@ -205,13 +205,13 @@
 			"image": "hero-3.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1583,
-				"h": 1129
+				"w": 1860,
+				"h": 1059
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Amazon girl run.10.png",
+					"filename": "x2 smooth.03.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -219,20 +219,20 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 559,
-						"y": 127,
-						"w": 753,
-						"h": 1127
+						"x": 468,
+						"y": 44,
+						"w": 948,
+						"h": 1057
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 753,
-						"h": 1127
+						"w": 948,
+						"h": 1057
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.11.png",
+					"filename": "x2 smooth.27.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -240,16 +240,16 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 494,
-						"y": 107,
-						"w": 826,
-						"h": 1083
+						"x": 486,
+						"y": 44,
+						"w": 908,
+						"h": 1057
 					},
 					"frame": {
-						"x": 756,
+						"x": 951,
 						"y": 1,
-						"w": 826,
-						"h": 1083
+						"w": 908,
+						"h": 1057
 					}
 				}
 			]
@@ -258,13 +258,13 @@
 			"image": "hero-4.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1808,
-				"h": 1120
+				"w": 1665,
+				"h": 1067
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Amazon girl run.07.png",
+					"filename": "x2 smooth.23.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -272,20 +272,158 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 730,
-						"y": 143,
-						"w": 506,
-						"h": 1118
+						"x": 489,
+						"y": 97,
+						"w": 829,
+						"h": 1065
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 506,
-						"h": 1118
+						"w": 829,
+						"h": 1065
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.12.png",
+					"filename": "x2 smooth.47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 471,
+						"y": 97,
+						"w": 832,
+						"h": 1060
+					},
+					"frame": {
+						"x": 832,
+						"y": 1,
+						"w": 832,
+						"h": 1060
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1876,
+				"h": 1072
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 473,
+						"y": 40,
+						"w": 955,
+						"h": 1068
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 955,
+						"h": 1068
+					}
+				},
+				{
+					"filename": "x2 smooth.28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 40,
+						"w": 917,
+						"h": 1070
+					},
+					"frame": {
+						"x": 958,
+						"y": 1,
+						"w": 917,
+						"h": 1070
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1792,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 496,
+						"y": 45,
+						"w": 913,
+						"h": 1090
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 913,
+						"h": 1090
+					}
+				},
+				{
+					"filename": "x2 smooth.29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 513,
+						"y": 45,
+						"w": 875,
+						"h": 1091
+					},
+					"frame": {
+						"x": 916,
+						"y": 1,
+						"w": 875,
+						"h": 1091
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1648,
+				"h": 1109
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.22.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -294,19 +432,19 @@
 					},
 					"spriteSourceSize": {
 						"x": 497,
-						"y": 75,
-						"w": 823,
-						"h": 1010
+						"y": 115,
+						"w": 824,
+						"h": 1107
 					},
 					"frame": {
-						"x": 509,
+						"x": 1,
 						"y": 1,
-						"w": 823,
-						"h": 1010
+						"w": 824,
+						"h": 1107
 					}
 				},
 				{
-					"filename": "Scene - Amazon girl run.08.png",
+					"filename": "x2 smooth.46.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -314,16 +452,820 @@
 						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 787,
-						"y": 144,
-						"w": 473,
-						"h": 1110
+						"x": 478,
+						"y": 115,
+						"w": 820,
+						"h": 1104
 					},
 					"frame": {
-						"x": 1334,
+						"x": 827,
 						"y": 1,
-						"w": 473,
-						"h": 1110
+						"w": 820,
+						"h": 1104
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1706,
+				"h": 1117
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 519,
+						"y": 47,
+						"w": 870,
+						"h": 1114
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 870,
+						"h": 1114
+					}
+				},
+				{
+					"filename": "x2 smooth.30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 537,
+						"y": 47,
+						"w": 832,
+						"h": 1115
+					},
+					"frame": {
+						"x": 873,
+						"y": 1,
+						"w": 832,
+						"h": 1115
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1953,
+				"h": 1123
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 743,
+						"y": 140,
+						"w": 498,
+						"h": 1121
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 498,
+						"h": 1121
+					}
+				},
+				{
+					"filename": "x2 smooth.16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 777,
+						"y": 141,
+						"w": 476,
+						"h": 1120
+					},
+					"frame": {
+						"x": 501,
+						"y": 1,
+						"w": 476,
+						"h": 1120
+					}
+				},
+				{
+					"filename": "x2 smooth.17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 132,
+						"w": 512,
+						"h": 1121
+					},
+					"frame": {
+						"x": 979,
+						"y": 1,
+						"w": 512,
+						"h": 1121
+					}
+				},
+				{
+					"filename": "x2 smooth.40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 793,
+						"y": 141,
+						"w": 459,
+						"h": 1119
+					},
+					"frame": {
+						"x": 1493,
+						"y": 1,
+						"w": 459,
+						"h": 1119
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1601,
+				"h": 1128
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 697,
+						"y": 128,
+						"w": 586,
+						"h": 1126
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 586,
+						"h": 1126
+					}
+				},
+				{
+					"filename": "x2 smooth.39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 759,
+						"y": 140,
+						"w": 498,
+						"h": 1121
+					},
+					"frame": {
+						"x": 589,
+						"y": 1,
+						"w": 498,
+						"h": 1121
+					}
+				},
+				{
+					"filename": "x2 smooth.41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 736,
+						"y": 132,
+						"w": 511,
+						"h": 1124
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1,
+						"w": 511,
+						"h": 1124
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2006,
+				"h": 1131
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 639,
+						"y": 126,
+						"w": 656,
+						"h": 1129
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 656,
+						"h": 1129
+					}
+				},
+				{
+					"filename": "x2 smooth.42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 677,
+						"y": 128,
+						"w": 566,
+						"h": 1128
+					},
+					"frame": {
+						"x": 659,
+						"y": 1,
+						"w": 566,
+						"h": 1128
+					}
+				},
+				{
+					"filename": "x2 smooth.45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 512,
+						"y": 126,
+						"w": 778,
+						"h": 1128
+					},
+					"frame": {
+						"x": 1227,
+						"y": 1,
+						"w": 778,
+						"h": 1128
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1431,
+				"h": 1132
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 530,
+						"y": 126,
+						"w": 788,
+						"h": 1129
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 788,
+						"h": 1129
+					}
+				},
+				{
+					"filename": "x2 smooth.43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 619,
+						"y": 126,
+						"w": 639,
+						"h": 1130
+					},
+					"frame": {
+						"x": 791,
+						"y": 1,
+						"w": 639,
+						"h": 1130
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1961,
+				"h": 1138
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 713,
+						"y": 125,
+						"w": 519,
+						"h": 1136
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 519,
+						"h": 1136
+					}
+				},
+				{
+					"filename": "x2 smooth.20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 583,
+						"y": 125,
+						"w": 724,
+						"h": 1131
+					},
+					"frame": {
+						"x": 522,
+						"y": 1,
+						"w": 724,
+						"h": 1131
+					}
+				},
+				{
+					"filename": "x2 smooth.44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 564,
+						"y": 125,
+						"w": 712,
+						"h": 1130
+					},
+					"frame": {
+						"x": 1248,
+						"y": 1,
+						"w": 712,
+						"h": 1130
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1367,
+				"h": 1139
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 542,
+						"y": 50,
+						"w": 827,
+						"h": 1137
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 827,
+						"h": 1137
+					}
+				},
+				{
+					"filename": "x2 smooth.38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 729,
+						"y": 125,
+						"w": 536,
+						"h": 1136
+					},
+					"frame": {
+						"x": 830,
+						"y": 1,
+						"w": 536,
+						"h": 1136
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1912,
+				"h": 1153
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 685,
+						"y": 110,
+						"w": 546,
+						"h": 1151
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 546,
+						"h": 1151
+					}
+				},
+				{
+					"filename": "x2 smooth.31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 559,
+						"y": 50,
+						"w": 789,
+						"h": 1138
+					},
+					"frame": {
+						"x": 549,
+						"y": 1,
+						"w": 789,
+						"h": 1138
+					}
+				},
+				{
+					"filename": "x2 smooth.37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 701,
+						"y": 110,
+						"w": 571,
+						"h": 1151
+					},
+					"frame": {
+						"x": 1340,
+						"y": 1,
+						"w": 571,
+						"h": 1151
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1539,
+				"h": 1163
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 563,
+						"y": 53,
+						"w": 786,
+						"h": 1160
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 786,
+						"h": 1160
+					}
+				},
+				{
+					"filename": "x2 smooth.32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 580,
+						"y": 53,
+						"w": 749,
+						"h": 1161
+					},
+					"frame": {
+						"x": 789,
+						"y": 1,
+						"w": 749,
+						"h": 1161
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1937,
+				"h": 1183
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 582,
+						"y": 57,
+						"w": 747,
+						"h": 1181
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 747,
+						"h": 1181
+					}
+				},
+				{
+					"filename": "x2 smooth.12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 660,
+						"y": 94,
+						"w": 579,
+						"h": 1167
+					},
+					"frame": {
+						"x": 750,
+						"y": 1,
+						"w": 579,
+						"h": 1167
+					}
+				},
+				{
+					"filename": "x2 smooth.36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 676,
+						"y": 94,
+						"w": 605,
+						"h": 1167
+					},
+					"frame": {
+						"x": 1331,
+						"y": 1,
+						"w": 605,
+						"h": 1167
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1967,
+				"h": 1184
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 633,
+						"y": 80,
+						"w": 615,
+						"h": 1181
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 615,
+						"h": 1181
+					}
+				},
+				{
+					"filename": "x2 smooth.33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 600,
+						"y": 57,
+						"w": 709,
+						"h": 1182
+					},
+					"frame": {
+						"x": 618,
+						"y": 1,
+						"w": 709,
+						"h": 1182
+					}
+				},
+				{
+					"filename": "x2 smooth.35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 650,
+						"y": 80,
+						"w": 637,
+						"h": 1181
+					},
+					"frame": {
+						"x": 1329,
+						"y": 1,
+						"w": 637,
+						"h": 1181
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1362,
+				"h": 1196
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "x2 smooth.10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 606,
+						"y": 66,
+						"w": 690,
+						"h": 1193
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 690,
+						"h": 1193
+					}
+				},
+				{
+					"filename": "x2 smooth.34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 623,
+						"y": 66,
+						"w": 668,
+						"h": 1194
+					},
+					"frame": {
+						"x": 693,
+						"y": 1,
+						"w": 668,
+						"h": 1194
 					}
 				}
 			]
@@ -332,6 +1274,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:f2c68609c750221de155cb337c784537:6aeaf9979c88771ad0431fff59014fad:43173dbdeb89802e6b6b1bfd424d0df8$"
+		"smartupdate": "$TexturePacker:SmartUpdate:c6f7e11a8e5b8c2bee3214d3ac873b11:3d2fae68c3f4ce97515f76c265971697:8566b67c1b20258465f9689c8b7e62f3$"
 	}
 }

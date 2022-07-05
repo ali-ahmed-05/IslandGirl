@@ -4,72 +4,51 @@
 			"image": "hero-0.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 870,
-				"h": 552
+				"w": 1635,
+				"h": 1055
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - space girl.07.png",
+					"filename": "Scene - space girl.15.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 725,
-						"y": 236,
-						"w": 433,
-						"h": 550
+						"x": 570,
+						"y": 21,
+						"w": 841,
+						"h": 1052
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 433,
-						"h": 550
+						"w": 841,
+						"h": 1052
 					}
 				},
 				{
-					"filename": "Scene - space girl.31.png",
+					"filename": "Scene - space girl.38.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 725,
-						"y": 236,
-						"w": 433,
-						"h": 550
+						"x": 575,
+						"y": 25,
+						"w": 790,
+						"h": 1053
 					},
 					"frame": {
-						"x": 436,
+						"x": 844,
 						"y": 1,
-						"w": 433,
-						"h": 550
-					}
-				},
-				{
-					"filename": "Scene - space girl.55.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 725,
-						"y": 236,
-						"w": 433,
-						"h": 550
-					},
-					"frame": {
-						"x": 436,
-						"y": 1,
-						"w": 433,
-						"h": 550
+						"w": 790,
+						"h": 1053
 					}
 				}
 			]
@@ -78,938 +57,8 @@
 			"image": "hero-1.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 911,
-				"h": 571
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.08.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 732,
-						"y": 230,
-						"w": 491,
-						"h": 569
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 491,
-						"h": 569
-					}
-				},
-				{
-					"filename": "Scene - space girl.19.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 735,
-						"y": 236,
-						"w": 416,
-						"h": 555
-					},
-					"frame": {
-						"x": 494,
-						"y": 1,
-						"w": 416,
-						"h": 555
-					}
-				},
-				{
-					"filename": "Scene - space girl.43.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 735,
-						"y": 236,
-						"w": 416,
-						"h": 555
-					},
-					"frame": {
-						"x": 494,
-						"y": 1,
-						"w": 416,
-						"h": 555
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-2.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 972,
-				"h": 576
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.20.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 739,
-						"y": 230,
-						"w": 477,
-						"h": 574
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 477,
-						"h": 574
-					}
-				},
-				{
-					"filename": "Scene - space girl.32.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 732,
-						"y": 230,
-						"w": 491,
-						"h": 569
-					},
-					"frame": {
-						"x": 480,
-						"y": 1,
-						"w": 491,
-						"h": 569
-					}
-				},
-				{
-					"filename": "Scene - space girl.56.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 732,
-						"y": 230,
-						"w": 491,
-						"h": 569
-					},
-					"frame": {
-						"x": 480,
-						"y": 1,
-						"w": 491,
-						"h": 569
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-3.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 982,
-				"h": 583
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.09.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 737,
-						"y": 226,
-						"w": 501,
-						"h": 581
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 501,
-						"h": 581
-					}
-				},
-				{
-					"filename": "Scene - space girl.44.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 739,
-						"y": 230,
-						"w": 477,
-						"h": 574
-					},
-					"frame": {
-						"x": 504,
-						"y": 1,
-						"w": 477,
-						"h": 574
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-4.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 992,
-				"h": 587
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.21.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 744,
-						"y": 226,
-						"w": 487,
-						"h": 585
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 487,
-						"h": 585
-					}
-				},
-				{
-					"filename": "Scene - space girl.33.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 737,
-						"y": 226,
-						"w": 501,
-						"h": 581
-					},
-					"frame": {
-						"x": 490,
-						"y": 1,
-						"w": 501,
-						"h": 581
-					}
-				},
-				{
-					"filename": "Scene - space girl.57.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 737,
-						"y": 226,
-						"w": 501,
-						"h": 581
-					},
-					"frame": {
-						"x": 490,
-						"y": 1,
-						"w": 501,
-						"h": 581
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-5.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 906,
-				"h": 601
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.18.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 731,
-						"y": 241,
-						"w": 415,
-						"h": 599
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 415,
-						"h": 599
-					}
-				},
-				{
-					"filename": "Scene - space girl.45.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 744,
-						"y": 226,
-						"w": 487,
-						"h": 585
-					},
-					"frame": {
-						"x": 418,
-						"y": 1,
-						"w": 487,
-						"h": 585
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-6.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 851,
-				"h": 604
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.06.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 722,
-						"y": 241,
-						"w": 432,
-						"h": 602
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 432,
-						"h": 602
-					}
-				},
-				{
-					"filename": "Scene - space girl.42.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 731,
-						"y": 241,
-						"w": 415,
-						"h": 599
-					},
-					"frame": {
-						"x": 435,
-						"y": 1,
-						"w": 415,
-						"h": 599
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-7.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 891,
-				"h": 613
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.10.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 760,
-						"y": 224,
-						"w": 455,
-						"h": 611
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 455,
-						"h": 611
-					}
-				},
-				{
-					"filename": "Scene - space girl.30.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 722,
-						"y": 241,
-						"w": 432,
-						"h": 602
-					},
-					"frame": {
-						"x": 458,
-						"y": 1,
-						"w": 432,
-						"h": 602
-					}
-				},
-				{
-					"filename": "Scene - space girl.54.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 722,
-						"y": 241,
-						"w": 432,
-						"h": 602
-					},
-					"frame": {
-						"x": 458,
-						"y": 1,
-						"w": 432,
-						"h": 602
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-8.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 901,
-				"h": 617
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.22.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 767,
-						"y": 224,
-						"w": 442,
-						"h": 615
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 442,
-						"h": 615
-					}
-				},
-				{
-					"filename": "Scene - space girl.46.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 767,
-						"y": 224,
-						"w": 442,
-						"h": 615
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 442,
-						"h": 615
-					}
-				},
-				{
-					"filename": "Scene - space girl.34.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 760,
-						"y": 224,
-						"w": 455,
-						"h": 611
-					},
-					"frame": {
-						"x": 445,
-						"y": 1,
-						"w": 455,
-						"h": 611
-					}
-				},
-				{
-					"filename": "Scene - space girl.58.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 760,
-						"y": 224,
-						"w": 455,
-						"h": 611
-					},
-					"frame": {
-						"x": 445,
-						"y": 1,
-						"w": 455,
-						"h": 611
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-9.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 961,
-				"h": 632
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.17.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 766,
-						"y": 243,
-						"w": 373,
-						"h": 630
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 373,
-						"h": 630
-					}
-				},
-				{
-					"filename": "Scene - space girl.16.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 829,
-						"y": 243,
-						"w": 291,
-						"h": 630
-					},
-					"frame": {
-						"x": 376,
-						"y": 1,
-						"w": 291,
-						"h": 630
-					}
-				},
-				{
-					"filename": "Scene - space girl.40.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 829,
-						"y": 243,
-						"w": 291,
-						"h": 630
-					},
-					"frame": {
-						"x": 669,
-						"y": 1,
-						"w": 291,
-						"h": 630
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-10.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 1002,
-				"h": 637
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.03.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 887,
-						"y": 244,
-						"w": 215,
-						"h": 635
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 215,
-						"h": 635
-					}
-				},
-				{
-					"filename": "Scene - space girl.15.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 894,
-						"y": 244,
-						"w": 203,
-						"h": 631
-					},
-					"frame": {
-						"x": 218,
-						"y": 1,
-						"w": 203,
-						"h": 631
-					}
-				},
-				{
-					"filename": "Scene - space girl.41.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 766,
-						"y": 243,
-						"w": 373,
-						"h": 630
-					},
-					"frame": {
-						"x": 423,
-						"y": 1,
-						"w": 373,
-						"h": 630
-					}
-				},
-				{
-					"filename": "Scene - space girl.39.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 894,
-						"y": 244,
-						"w": 203,
-						"h": 631
-					},
-					"frame": {
-						"x": 798,
-						"y": 1,
-						"w": 203,
-						"h": 631
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-11.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 1010,
-				"h": 635
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.05.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 758,
-						"y": 243,
-						"w": 388,
-						"h": 633
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 388,
-						"h": 633
-					}
-				},
-				{
-					"filename": "Scene - space girl.04.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 821,
-						"y": 243,
-						"w": 308,
-						"h": 633
-					},
-					"frame": {
-						"x": 391,
-						"y": 1,
-						"w": 308,
-						"h": 633
-					}
-				},
-				{
-					"filename": "Scene - space girl.28.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 821,
-						"y": 243,
-						"w": 308,
-						"h": 633
-					},
-					"frame": {
-						"x": 701,
-						"y": 1,
-						"w": 308,
-						"h": 633
-					}
-				},
-				{
-					"filename": "Scene - space girl.52.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 821,
-						"y": 243,
-						"w": 308,
-						"h": 633
-					},
-					"frame": {
-						"x": 701,
-						"y": 1,
-						"w": 308,
-						"h": 633
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-12.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 1020,
-				"h": 640
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - space girl.11.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 781,
-						"y": 223,
-						"w": 411,
-						"h": 638
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 411,
-						"h": 638
-					}
-				},
-				{
-					"filename": "Scene - space girl.29.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 758,
-						"y": 243,
-						"w": 388,
-						"h": 633
-					},
-					"frame": {
-						"x": 414,
-						"y": 1,
-						"w": 388,
-						"h": 633
-					}
-				},
-				{
-					"filename": "Scene - space girl.53.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 758,
-						"y": 243,
-						"w": 388,
-						"h": 633
-					},
-					"frame": {
-						"x": 414,
-						"y": 1,
-						"w": 388,
-						"h": 633
-					}
-				},
-				{
-					"filename": "Scene - space girl.27.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 887,
-						"y": 244,
-						"w": 215,
-						"h": 635
-					},
-					"frame": {
-						"x": 804,
-						"y": 1,
-						"w": 215,
-						"h": 635
-					}
-				},
-				{
-					"filename": "Scene - space girl.51.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 887,
-						"y": 244,
-						"w": 215,
-						"h": 635
-					},
-					"frame": {
-						"x": 804,
-						"y": 1,
-						"w": 215,
-						"h": 635
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-13.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 897,
-				"h": 642
+				"w": 1635,
+				"h": 1064
 			},
 			"scale": 1,
 			"frames": [
@@ -1018,252 +67,232 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 861,
-						"y": 241,
-						"w": 240,
-						"h": 640
+						"x": 557,
+						"y": 25,
+						"w": 822,
+						"h": 1058
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 240,
-						"h": 640
+						"w": 822,
+						"h": 1058
 					}
 				},
 				{
-					"filename": "Scene - space girl.35.png",
+					"filename": "Scene - space girl.39.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 781,
-						"y": 223,
-						"w": 411,
-						"h": 638
+						"x": 588,
+						"y": 21,
+						"w": 809,
+						"h": 1062
 					},
 					"frame": {
-						"x": 243,
+						"x": 825,
 						"y": 1,
-						"w": 411,
-						"h": 638
-					}
-				},
-				{
-					"filename": "Scene - space girl.59.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 781,
-						"y": 223,
-						"w": 411,
-						"h": 638
-					},
-					"frame": {
-						"x": 243,
-						"y": 1,
-						"w": 411,
-						"h": 638
-					}
-				},
-				{
-					"filename": "Scene - space girl.38.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 861,
-						"y": 241,
-						"w": 240,
-						"h": 640
-					},
-					"frame": {
-						"x": 656,
-						"y": 1,
-						"w": 240,
-						"h": 640
+						"w": 809,
+						"h": 1062
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-14.png",
+			"image": "hero-2.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 862,
-				"h": 647
+				"w": 1852,
+				"h": 1080
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - space girl.02.png",
+					"filename": "Scene - space girl.16.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 869,
-						"y": 241,
-						"w": 230,
-						"h": 645
+						"x": 584,
+						"y": 16,
+						"w": 889,
+						"h": 1071
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 230,
-						"h": 645
+						"w": 889,
+						"h": 1071
 					}
 				},
 				{
-					"filename": "Scene - space girl.26.png",
+					"filename": "Scene - space girl.17.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 869,
-						"y": 241,
-						"w": 229,
-						"h": 645
+						"x": 570,
+						"y": 10,
+						"w": 959,
+						"h": 1078
 					},
 					"frame": {
-						"x": 233,
+						"x": 892,
 						"y": 1,
-						"w": 229,
-						"h": 645
-					}
-				},
-				{
-					"filename": "Scene - space girl.50.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 869,
-						"y": 241,
-						"w": 229,
-						"h": 645
-					},
-					"frame": {
-						"x": 233,
-						"y": 1,
-						"w": 229,
-						"h": 645
-					}
-				},
-				{
-					"filename": "Scene - space girl.23.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 788,
-						"y": 223,
-						"w": 397,
-						"h": 642
-					},
-					"frame": {
-						"x": 464,
-						"y": 1,
-						"w": 397,
-						"h": 642
-					}
-				},
-				{
-					"filename": "Scene - space girl.47.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 788,
-						"y": 223,
-						"w": 397,
-						"h": 642
-					},
-					"frame": {
-						"x": 464,
-						"y": 1,
-						"w": 397,
-						"h": 642
+						"w": 959,
+						"h": 1078
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-15.png",
+			"image": "hero-3.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 828,
-				"h": 654
+				"w": 1830,
+				"h": 1088
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - space girl.01.png",
+					"filename": "Scene - space girl.18.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 840,
-						"y": 233,
-						"w": 270,
-						"h": 652
+						"x": 576,
+						"y": 7,
+						"w": 965,
+						"h": 1086
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 270,
-						"h": 652
+						"w": 965,
+						"h": 1086
 					}
 				},
+				{
+					"filename": "Scene - space girl.40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 599,
+						"y": 16,
+						"w": 861,
+						"h": 1080
+					},
+					"frame": {
+						"x": 968,
+						"y": 1,
+						"w": 861,
+						"h": 1080
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1876,
+				"h": 1095
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 10,
+						"w": 932,
+						"h": 1087
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 932,
+						"h": 1087
+					}
+				},
+				{
+					"filename": "Scene - space girl.42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 589,
+						"y": 7,
+						"w": 940,
+						"h": 1093
+					},
+					"frame": {
+						"x": 935,
+						"y": 1,
+						"w": 940,
+						"h": 1093
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1614,
+				"h": 1115
+			},
+			"scale": 1,
+			"frames": [
 				{
 					"filename": "Scene - space girl.13.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 833,
-						"y": 233,
-						"w": 276,
-						"h": 648
+						"x": 554,
+						"y": 30,
+						"w": 821,
+						"h": 1113
 					},
 					"frame": {
-						"x": 273,
+						"x": 1,
 						"y": 1,
-						"w": 276,
-						"h": 648
+						"w": 821,
+						"h": 1113
 					}
 				},
 				{
@@ -1271,30 +300,136 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 833,
-						"y": 233,
-						"w": 276,
-						"h": 648
+						"x": 572,
+						"y": 30,
+						"w": 789,
+						"h": 1108
 					},
 					"frame": {
-						"x": 551,
+						"x": 824,
 						"y": 1,
-						"w": 276,
-						"h": 648
+						"w": 789,
+						"h": 1108
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-16.png",
+			"image": "hero-6.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 970,
-				"h": 656
+				"w": 1823,
+				"h": 1125
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 598,
+						"y": 4,
+						"w": 923,
+						"h": 1116
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 923,
+						"h": 1116
+					}
+				},
+				{
+					"filename": "Scene - space girl.43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 612,
+						"y": 4,
+						"w": 896,
+						"h": 1123
+					},
+					"frame": {
+						"x": 926,
+						"y": 1,
+						"w": 896,
+						"h": 1123
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1736,
+				"h": 1152
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 620,
+						"y": 3,
+						"w": 879,
+						"h": 1143
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 879,
+						"h": 1143
+					}
+				},
+				{
+					"filename": "Scene - space girl.44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 633,
+						"y": 3,
+						"w": 853,
+						"h": 1150
+					},
+					"frame": {
+						"x": 882,
+						"y": 1,
+						"w": 853,
+						"h": 1150
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1590,
+				"h": 1168
 			},
 			"scale": 1,
 			"frames": [
@@ -1303,20 +438,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 806,
-						"y": 226,
-						"w": 348,
-						"h": 654
+						"x": 561,
+						"y": 36,
+						"w": 808,
+						"h": 1166
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 348,
-						"h": 654
+						"w": 808,
+						"h": 1166
 					}
 				},
 				{
@@ -1324,83 +459,570 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 806,
-						"y": 226,
-						"w": 348,
-						"h": 654
+						"x": 578,
+						"y": 36,
+						"w": 778,
+						"h": 1161
 					},
 					"frame": {
-						"x": 351,
+						"x": 811,
 						"y": 1,
-						"w": 348,
-						"h": 654
+						"w": 778,
+						"h": 1161
 					}
-				},
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1649,
+				"h": 1180
+			},
+			"scale": 1,
+			"frames": [
 				{
-					"filename": "Scene - space girl.60.png",
+					"filename": "Scene - space girl.21.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 806,
-						"y": 226,
-						"w": 348,
-						"h": 654
+						"x": 641,
+						"y": 1,
+						"w": 836,
+						"h": 1170
 					},
 					"frame": {
-						"x": 351,
+						"x": 1,
 						"y": 1,
-						"w": 348,
-						"h": 654
+						"w": 836,
+						"h": 1170
 					}
 				},
 				{
-					"filename": "Scene - space girl.25.png",
+					"filename": "Scene - space girl.45.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 840,
-						"y": 233,
-						"w": 268,
-						"h": 652
+						"x": 655,
+						"y": 1,
+						"w": 809,
+						"h": 1178
+					},
+					"frame": {
+						"x": 839,
+						"y": 1,
+						"w": 809,
+						"h": 1178
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1673,
+				"h": 1194
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 852,
+						"y": 39,
+						"w": 421,
+						"h": 1191
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 421,
+						"h": 1191
+					}
+				},
+				{
+					"filename": "Scene - space girl.32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 789,
+						"y": 38,
+						"w": 507,
+						"h": 1192
+					},
+					"frame": {
+						"x": 424,
+						"y": 1,
+						"w": 507,
+						"h": 1192
+					}
+				},
+				{
+					"filename": "Scene - space girl.35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 612,
+						"y": 38,
+						"w": 739,
+						"h": 1192
+					},
+					"frame": {
+						"x": 933,
+						"y": 1,
+						"w": 739,
+						"h": 1192
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1714,
+				"h": 1198
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 838,
+						"y": 39,
+						"w": 449,
+						"h": 1196
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 449,
+						"h": 1196
+					}
+				},
+				{
+					"filename": "Scene - space girl.33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 728,
+						"y": 37,
+						"w": 592,
+						"h": 1193
+					},
+					"frame": {
+						"x": 452,
+						"y": 1,
+						"w": 592,
+						"h": 1193
+					}
+				},
+				{
+					"filename": "Scene - space girl.34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 668,
+						"y": 37,
+						"w": 667,
+						"h": 1193
+					},
+					"frame": {
+						"x": 1046,
+						"y": 1,
+						"w": 667,
+						"h": 1193
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1337,
+				"h": 1199
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 774,
+						"y": 38,
+						"w": 539,
+						"h": 1197
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 539,
+						"h": 1197
+					}
+				},
+				{
+					"filename": "Scene - space girl.22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 661,
+						"y": 0,
+						"w": 794,
+						"h": 1196
+					},
+					"frame": {
+						"x": 542,
+						"y": 1,
+						"w": 794,
+						"h": 1196
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1391,
+				"h": 1200
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 712,
+						"y": 37,
+						"w": 621,
+						"h": 1198
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 621,
+						"h": 1198
+					}
+				},
+				{
+					"filename": "Scene - space girl.11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 596,
+						"y": 38,
+						"w": 766,
+						"h": 1197
+					},
+					"frame": {
+						"x": 624,
+						"y": 1,
+						"w": 766,
+						"h": 1197
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1863,
+				"h": 1206
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 652,
+						"y": 37,
+						"w": 698,
+						"h": 1198
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 698,
+						"h": 1198
+					}
+				},
+				{
+					"filename": "Scene - space girl.30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 871,
+						"y": 41,
+						"w": 392,
+						"h": 1198
 					},
 					"frame": {
 						"x": 701,
 						"y": 1,
-						"w": 268,
-						"h": 652
+						"w": 392,
+						"h": 1198
 					}
 				},
 				{
-					"filename": "Scene - space girl.49.png",
+					"filename": "Scene - space girl.46.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 840,
-						"y": 233,
-						"w": 268,
-						"h": 652
+						"x": 675,
+						"y": 0,
+						"w": 767,
+						"h": 1204
 					},
 					"frame": {
-						"x": 701,
+						"x": 1095,
 						"y": 1,
-						"w": 268,
-						"h": 652
+						"w": 767,
+						"h": 1204
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1702,
+				"h": 1220
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 850,
+						"y": 38,
+						"w": 413,
+						"h": 1218
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 413,
+						"h": 1218
+					}
+				},
+				{
+					"filename": "Scene - space girl.06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 884,
+						"y": 41,
+						"w": 380,
+						"h": 1208
+					},
+					"frame": {
+						"x": 416,
+						"y": 1,
+						"w": 380,
+						"h": 1208
+					}
+				},
+				{
+					"filename": "Scene - space girl.28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 808,
+						"y": 30,
+						"w": 468,
+						"h": 1216
+					},
+					"frame": {
+						"x": 798,
+						"y": 1,
+						"w": 468,
+						"h": 1216
+					}
+				},
+				{
+					"filename": "Scene - space girl.29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 836,
+						"y": 38,
+						"w": 433,
+						"h": 1209
+					},
+					"frame": {
+						"x": 1268,
+						"y": 1,
+						"w": 433,
+						"h": 1209
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1713,
+				"h": 1227
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 822,
+						"y": 30,
+						"w": 450,
+						"h": 1225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 450,
+						"h": 1225
+					}
+				},
+				{
+					"filename": "Scene - space girl.23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 680,
+						"y": 0,
+						"w": 754,
+						"h": 1221
+					},
+					"frame": {
+						"x": 453,
+						"y": 1,
+						"w": 754,
+						"h": 1221
+					}
+				},
+				{
+					"filename": "Scene - space girl.27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 781,
+						"y": 22,
+						"w": 503,
+						"h": 1224
+					},
+					"frame": {
+						"x": 1209,
+						"y": 1,
+						"w": 503,
+						"h": 1224
 					}
 				}
 			]
@@ -1409,8 +1031,230 @@
 			"image": "hero-17.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 674,
-				"h": 661
+				"w": 1759,
+				"h": 1235
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 795,
+						"y": 22,
+						"w": 488,
+						"h": 1233
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1233
+					}
+				},
+				{
+					"filename": "Scene - space girl.26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 14,
+						"w": 537,
+						"h": 1230
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 537,
+						"h": 1230
+					}
+				},
+				{
+					"filename": "Scene - space girl.47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 693,
+						"y": 0,
+						"w": 728,
+						"h": 1229
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1,
+						"w": 728,
+						"h": 1229
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1841,
+				"h": 1242
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 14,
+						"w": 523,
+						"h": 1239
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 523,
+						"h": 1239
+					}
+				},
+				{
+					"filename": "Scene - space girl.24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 703,
+						"y": 1,
+						"w": 695,
+						"h": 1240
+					},
+					"frame": {
+						"x": 526,
+						"y": 1,
+						"w": 695,
+						"h": 1240
+					}
+				},
+				{
+					"filename": "Scene - space girl.25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 730,
+						"y": 7,
+						"w": 617,
+						"h": 1237
+					},
+					"frame": {
+						"x": 1223,
+						"y": 1,
+						"w": 617,
+						"h": 1237
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1856,
+				"h": 1250
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - space girl.01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 744,
+						"y": 7,
+						"w": 591,
+						"h": 1246
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 591,
+						"h": 1246
+					}
+				},
+				{
+					"filename": "Scene - space girl.48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 717,
+						"y": 1,
+						"w": 668,
+						"h": 1248
+					},
+					"frame": {
+						"x": 594,
+						"y": 1,
+						"w": 668,
+						"h": 1248
+					}
+				},
+				{
+					"filename": "Scene - space girl.49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 744,
+						"y": 7,
+						"w": 591,
+						"h": 1246
+					},
+					"frame": {
+						"x": 1264,
+						"y": 1,
+						"w": 591,
+						"h": 1246
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 670,
+				"h": 1251
 			},
 			"scale": 1,
 			"frames": [
@@ -1419,62 +1263,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 813,
-						"y": 226,
-						"w": 335,
-						"h": 659
+						"x": 717,
+						"y": 1,
+						"w": 668,
+						"h": 1249
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 335,
-						"h": 659
-					}
-				},
-				{
-					"filename": "Scene - space girl.24.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 813,
-						"y": 226,
-						"w": 335,
-						"h": 659
-					},
-					"frame": {
-						"x": 338,
-						"y": 1,
-						"w": 335,
-						"h": 659
-					}
-				},
-				{
-					"filename": "Scene - space girl.48.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 813,
-						"y": 226,
-						"w": 335,
-						"h": 659
-					},
-					"frame": {
-						"x": 338,
-						"y": 1,
-						"w": 335,
-						"h": 659
+						"w": 668,
+						"h": 1249
 					}
 				}
 			]
@@ -1483,6 +1285,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:0f4d211c1174244bfbb5a43585a7d406:075b62cf27e5488e64d0a6e2aa0869ca:0b1623459fbc9667d74a971e69685884$"
+		"smartupdate": "$TexturePacker:SmartUpdate:d9fd856a3f7c8e457696da2172aecc5e:20a19832bbaa8e7a193e0552b37b86b3:e9ead5823140694a17e8d622872c75f5$"
 	}
 }
