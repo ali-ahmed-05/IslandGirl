@@ -846,16 +846,18 @@ class characters extends Phaser.Scene {
         this.background = this.add.image(0, 0, "bg").setOrigin(0, 0);
 
         const characters = []
-        let gape = 0.4;
+        let gape = 0;
 
         this.players.forEach(function (player, index) {
-            gape += 0.3;
-            characters[index] = ref.add.image(innerWidth / 2 * gape, innerHeight * 0.3, player.name);
-            characters[index].setScale(0.2);
+            gape += 200;
+            const mainGape = (innerWidth - gape);
 
-            ref.add.text(innerWidth / 2 * gape - 40, innerHeight * 0.1, player.name, {
+            characters[index] = ref.add.image(mainGape, innerHeight * 0.3, player.name);
+            ref.add.text(mainGape - 20, innerHeight * 0.45, player.name, {
                 fontFamily: 'Georgia, "Goudy Bookletter 1911", Times, serif'
             });
+
+            characters[index].setScale(0.2);
         });
 
         characters.forEach(function (character) {
