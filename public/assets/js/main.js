@@ -605,7 +605,8 @@ class level_1 extends Phaser.Scene {
                 // this.containerPositionMinus = -290;
                 this.containerPositionMinus = -400;
             }
-            this.scoreBoard.x = (this.player.body.position.x) + this.containerPositionMinus;
+            // this.scoreBoard.x = (this.player.body.position.x) + this.containerPositionMinus;
+            this.scoreBoard.x = (this.player.body.position.x);
         }
 
         if (!this.gameOver && this.spaceBar.isDown && this.player.body.blocked.down) {
@@ -657,7 +658,10 @@ class level_1 extends Phaser.Scene {
         this.gameOver = true
 
         this.player.setCollideWorldBounds(false);
-        this.player.body.velocity.x = 0;
+        // this.player.body.velocity.x = 0;
+        setTimeout(()=>{
+            this.player.body.velocity.x = 0;
+        },100)
         this.playerShadow.setCollideWorldBounds(false);
         this.playerShadow.body.velocity.x = 0;
         this.playerBound.setCollideWorldBounds(false);
@@ -668,8 +672,8 @@ class level_1 extends Phaser.Scene {
         this.time.delayedCall(2000, function () {
             this.cameras.main.fadeOut(2000, 0, 0, 0)
         }, [], this);
-        //TODO:: FIX BUG (Game Over screen does not show)
-        this.time.delayedCall(3000, function () {
+
+        this.time.delayedCall(2000, function () {
             this.scene.start('gameOver');
         }, [], this);
     }
