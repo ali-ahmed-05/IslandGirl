@@ -571,7 +571,7 @@ class level_1 extends Phaser.Scene {
         // this.cameras.main.setBounds(0, 0, world_config.worldWidth * 10, world_config.worldHeight + 300);
         this.cameras.main.setBounds(0, 0, world_config.worldWidth, world_config.worldHeight + 300);
         this.cameras.main.startFollow(this.player, true, true);
-        this.cameras.main.setFollowOffset(-(innerWidth - 1200), -300);
+        this.cameras.main.setFollowOffset(-(innerWidth - 800), -300);
         this.physics.world.setBounds(0, 0, world_config.worldWidth, innerHeight + 20);
         // // this.cameras.main.setZoom(1.35)
         // // this.cameras.main.setLerp(1000,1000);
