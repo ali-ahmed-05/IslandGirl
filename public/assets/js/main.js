@@ -634,8 +634,8 @@ class level_1 extends Phaser.Scene {
 
         if (this.touchGroud && !this.gameOver) {
             this.player.body.velocity.x = player_config.player_speed * 2;
-            this.playerShadow.body.position.x = this.player.body.position.x + 180;
-            this.playerBound.body.position.x = this.player.body.position.x + 180;
+            this.playerShadow.body.position.x = (this.player.body.position.x - 40) + 180;
+            this.playerBound.body.position.x = (this.player.body.position.x - 40) + 180;
             // this.playerShadow.body.velocity.x = player_config.player_speed * 3;
             // this.playerBound.body.velocity.x = player_config.player_speed * 3;
             // console.log('this.player.body.position.x===>', this.player);
@@ -658,10 +658,7 @@ class level_1 extends Phaser.Scene {
         this.gameOver = true
 
         this.player.setCollideWorldBounds(false);
-        // this.player.body.velocity.x = 0;
-        setTimeout(()=>{
-            this.player.body.velocity.x = 0;
-        },100)
+        this.player.body.velocity.x = 0;
         this.playerShadow.setCollideWorldBounds(false);
         this.playerShadow.body.velocity.x = 0;
         this.playerBound.setCollideWorldBounds(false);
