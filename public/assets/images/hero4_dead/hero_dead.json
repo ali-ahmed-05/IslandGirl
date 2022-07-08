@@ -1,0 +1,2700 @@
+{
+	"textures": [
+		{
+			"image": "hero_dead-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1442,
+				"h": 1656
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Norse Gods dead v10110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1418,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1418,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1418,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1418,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1424,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 415,
+						"w": 1424,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1424,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 415,
+						"w": 1424,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1424,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 415,
+						"w": 1424,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1438,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 1438,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1438,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 1438,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1438,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 1438,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1440,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1243,
+						"w": 1440,
+						"h": 412
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1438,
+				"h": 1682
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Norse Gods dead v10090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1418,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1418,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1418,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 441,
+						"w": 1418,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1436,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1436,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1436,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1436,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1436,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1436,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1052,
+						"w": 1429,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1269,
+						"w": 1429,
+						"h": 412
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1718,
+				"h": 1714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Norse Gods dead v10070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 280,
+						"w": 488,
+						"h": 1272
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 1272
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 604,
+						"w": 1226,
+						"h": 842
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 1226,
+						"h": 842
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 1026,
+						"w": 1432,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 1432,
+						"h": 438
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1556,
+				"h": 1312
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Norse Gods dead v10010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 464,
+						"h": 1300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 1300
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 30,
+						"w": 518,
+						"h": 1310
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 518,
+						"h": 1310
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 282,
+						"w": 568,
+						"h": 1274
+					},
+					"frame": {
+						"x": 987,
+						"y": 1,
+						"w": 568,
+						"h": 1274
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1606,
+				"h": 1342
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Norse Gods dead v10001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 456,
+						"h": 1324
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 1324
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 60,
+						"w": 552,
+						"h": 1312
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 552,
+						"h": 1312
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 592,
+						"h": 1340
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 592,
+						"h": 1340
+					}
+				}
+			]
+		},
+		{
+			"image": "hero_dead-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 594,
+				"h": 1348
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Norse Gods dead v10040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				},
+				{
+					"filename": "Norse Gods dead v10049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2000,
+						"h": 1556
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 58,
+						"w": 592,
+						"h": 1346
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 592,
+						"h": 1346
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:974b8ea761a19bf1c8086b209c177b45:56d621eeffe3214743540f629a518e64:9bd3e16fc79313ab54676fa4fd5136c1$"
+	}
+}

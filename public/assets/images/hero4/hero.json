@@ -4,273 +4,8 @@
 			"image": "hero-0.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1000,
-				"h": 639
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.09.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 769,
-						"y": 234,
-						"w": 498,
-						"h": 637
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 498,
-						"h": 637
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.57.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 769,
-						"y": 234,
-						"w": 498,
-						"h": 637
-					},
-					"frame": {
-						"x": 501,
-						"y": 1,
-						"w": 498,
-						"h": 637
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-1.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 998,
-				"h": 639
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.21.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 770,
-						"y": 234,
-						"w": 496,
-						"h": 637
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 496,
-						"h": 637
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.33.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 769,
-						"y": 234,
-						"w": 498,
-						"h": 636
-					},
-					"frame": {
-						"x": 499,
-						"y": 1,
-						"w": 498,
-						"h": 636
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-2.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 989,
-				"h": 646
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.08.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 766,
-						"y": 238,
-						"w": 489,
-						"h": 644
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 489,
-						"h": 644
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.45.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 770,
-						"y": 234,
-						"w": 496,
-						"h": 637
-					},
-					"frame": {
-						"x": 492,
-						"y": 1,
-						"w": 496,
-						"h": 637
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-3.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 982,
-				"h": 645
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.32.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 766,
-						"y": 238,
-						"w": 489,
-						"h": 643
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 489,
-						"h": 643
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.56.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 766,
-						"y": 238,
-						"w": 489,
-						"h": 643
-					},
-					"frame": {
-						"x": 492,
-						"y": 1,
-						"w": 489,
-						"h": 643
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-4.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 978,
-				"h": 645
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.20.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 767,
-						"y": 238,
-						"w": 487,
-						"h": 643
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 487,
-						"h": 643
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.44.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 767,
-						"y": 238,
-						"w": 487,
-						"h": 643
-					},
-					"frame": {
-						"x": 490,
-						"y": 1,
-						"w": 487,
-						"h": 643
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-5.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 904,
-				"h": 635
+				"w": 1667,
+				"h": 1111
 			},
 			"scale": 1,
 			"frames": [
@@ -279,20 +14,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 794,
-						"y": 234,
-						"w": 450,
-						"h": 633
+						"x": 701,
+						"y": 0,
+						"w": 832,
+						"h": 1108
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 450,
-						"h": 633
+						"w": 832,
+						"h": 1108
 					}
 				},
 				{
@@ -300,30 +35,30 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 794,
-						"y": 234,
-						"w": 450,
-						"h": 633
+						"x": 701,
+						"y": 0,
+						"w": 831,
+						"h": 1109
 					},
 					"frame": {
-						"x": 453,
+						"x": 835,
 						"y": 1,
-						"w": 450,
-						"h": 633
+						"w": 831,
+						"h": 1109
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-6.png",
+			"image": "hero-1.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 904,
-				"h": 635
+				"w": 1667,
+				"h": 1111
 			},
 			"scale": 1,
 			"frames": [
@@ -332,20 +67,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 794,
-						"y": 234,
-						"w": 450,
-						"h": 633
+						"x": 701,
+						"y": 0,
+						"w": 832,
+						"h": 1109
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 450,
-						"h": 633
+						"w": 832,
+						"h": 1109
 					}
 				},
 				{
@@ -353,348 +88,30 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 794,
-						"y": 234,
-						"w": 450,
-						"h": 633
+						"x": 701,
+						"y": 0,
+						"w": 831,
+						"h": 1109
 					},
 					"frame": {
-						"x": 453,
+						"x": 835,
 						"y": 1,
-						"w": 450,
-						"h": 633
+						"w": 831,
+						"h": 1109
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-7.png",
+			"image": "hero-2.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 900,
-				"h": 656
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.18.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 761,
-						"y": 251,
-						"w": 446,
-						"h": 654
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 446,
-						"h": 654
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.58.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 794,
-						"y": 234,
-						"w": 450,
-						"h": 633
-					},
-					"frame": {
-						"x": 449,
-						"y": 1,
-						"w": 450,
-						"h": 633
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-8.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 896,
-				"h": 656
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.42.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 761,
-						"y": 251,
-						"w": 446,
-						"h": 654
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 446,
-						"h": 654
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.19.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 765,
-						"y": 245,
-						"w": 446,
-						"h": 648
-					},
-					"frame": {
-						"x": 449,
-						"y": 1,
-						"w": 446,
-						"h": 648
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-9.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 890,
-				"h": 652
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.07.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 770,
-						"y": 245,
-						"w": 440,
-						"h": 650
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 440,
-						"h": 650
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.43.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 765,
-						"y": 245,
-						"w": 446,
-						"h": 648
-					},
-					"frame": {
-						"x": 443,
-						"y": 1,
-						"w": 446,
-						"h": 648
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-10.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 884,
-				"h": 650
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.31.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 770,
-						"y": 245,
-						"w": 440,
-						"h": 648
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 440,
-						"h": 648
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.55.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 770,
-						"y": 245,
-						"w": 440,
-						"h": 648
-					},
-					"frame": {
-						"x": 443,
-						"y": 1,
-						"w": 440,
-						"h": 648
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-11.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 880,
-				"h": 658
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.06.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 765,
-						"y": 251,
-						"w": 438,
-						"h": 656
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 438,
-						"h": 656
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.30.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 765,
-						"y": 251,
-						"w": 438,
-						"h": 654
-					},
-					"frame": {
-						"x": 441,
-						"y": 1,
-						"w": 438,
-						"h": 654
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-12.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 845,
-				"h": 660
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.17.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 795,
-						"y": 255,
-						"w": 403,
-						"h": 658
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 403,
-						"h": 658
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.54.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 765,
-						"y": 251,
-						"w": 438,
-						"h": 654
-					},
-					"frame": {
-						"x": 406,
-						"y": 1,
-						"w": 438,
-						"h": 654
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-13.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 816,
-				"h": 635
+				"w": 1586,
+				"h": 1112
 			},
 			"scale": 1,
 			"frames": [
@@ -703,20 +120,73 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 817,
-						"y": 235,
-						"w": 406,
-						"h": 633
+						"x": 742,
+						"y": 4,
+						"w": 750,
+						"h": 1110
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 406,
-						"h": 633
+						"w": 750,
+						"h": 1110
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 701,
+						"y": 0,
+						"w": 832,
+						"h": 1109
+					},
+					"frame": {
+						"x": 753,
+						"y": 1,
+						"w": 832,
+						"h": 1109
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1502,
+				"h": 1112
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 742,
+						"y": 4,
+						"w": 748,
+						"h": 1110
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 748,
+						"h": 1110
 					}
 				},
 				{
@@ -724,359 +194,126 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 817,
-						"y": 235,
-						"w": 406,
-						"h": 633
+						"x": 742,
+						"y": 4,
+						"w": 750,
+						"h": 1110
 					},
 					"frame": {
-						"x": 409,
+						"x": 751,
 						"y": 1,
-						"w": 406,
-						"h": 633
+						"w": 750,
+						"h": 1110
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-14.png",
+			"image": "hero-4.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 815,
-				"h": 635
+				"w": 1502,
+				"h": 1112
 			},
 			"scale": 1,
 			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.59.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 817,
-						"y": 235,
-						"w": 406,
-						"h": 633
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 406,
-						"h": 633
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.23.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 817,
-						"y": 235,
-						"w": 405,
-						"h": 633
-					},
-					"frame": {
-						"x": 409,
-						"y": 1,
-						"w": 405,
-						"h": 633
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-15.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 812,
-				"h": 660
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.41.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 795,
-						"y": 255,
-						"w": 403,
-						"h": 658
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 403,
-						"h": 658
-					}
-				},
 				{
 					"filename": "Scene - Norse gods girl run.47.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 817,
-						"y": 235,
-						"w": 405,
-						"h": 633
+						"x": 742,
+						"y": 4,
+						"w": 748,
+						"h": 1110
 					},
 					"frame": {
-						"x": 406,
+						"x": 1,
 						"y": 1,
-						"w": 405,
-						"h": 633
+						"w": 748,
+						"h": 1110
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 742,
+						"y": 4,
+						"w": 750,
+						"h": 1110
+					},
+					"frame": {
+						"x": 751,
+						"y": 1,
+						"w": 750,
+						"h": 1110
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-16.png",
+			"image": "hero-5.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 788,
-				"h": 662
+				"w": 1906,
+				"h": 1121
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Norse gods girl run.05.png",
+					"filename": "Scene - Norse gods girl run.01.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 800,
-						"y": 255,
-						"w": 392,
-						"h": 660
+						"x": 759,
+						"y": 42,
+						"w": 623,
+						"h": 1117
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 392,
-						"h": 660
+						"w": 623,
+						"h": 1117
 					}
 				},
 				{
-					"filename": "Scene - Norse gods girl run.29.png",
+					"filename": "Scene - Norse gods girl run.02.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 800,
-						"y": 255,
-						"w": 392,
-						"h": 658
+						"x": 757,
+						"y": 71,
+						"w": 615,
+						"h": 1112
 					},
 					"frame": {
-						"x": 395,
+						"x": 626,
 						"y": 1,
-						"w": 392,
-						"h": 658
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-17.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 733,
-				"h": 663
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.16.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 849,
-						"y": 255,
-						"w": 337,
-						"h": 661
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 337,
-						"h": 661
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.53.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 800,
-						"y": 255,
-						"w": 392,
-						"h": 658
-					},
-					"frame": {
-						"x": 340,
-						"y": 1,
-						"w": 392,
-						"h": 658
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-18.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 1023,
-				"h": 664
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.04.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 849,
-						"y": 255,
-						"w": 331,
-						"h": 662
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 331,
-						"h": 662
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.12.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 843,
-						"y": 238,
-						"w": 343,
-						"h": 637
-					},
-					"frame": {
-						"x": 334,
-						"y": 1,
-						"w": 343,
-						"h": 637
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.36.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 843,
-						"y": 238,
-						"w": 343,
-						"h": 637
-					},
-					"frame": {
-						"x": 679,
-						"y": 1,
-						"w": 343,
-						"h": 637
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-19.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 1022,
-				"h": 663
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.28.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 849,
-						"y": 255,
-						"w": 331,
-						"h": 661
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 331,
-						"h": 661
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.60.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 843,
-						"y": 238,
-						"w": 343,
-						"h": 637
-					},
-					"frame": {
-						"x": 334,
-						"y": 1,
-						"w": 343,
-						"h": 637
+						"w": 615,
+						"h": 1112
 					}
 				},
 				{
@@ -1084,52 +321,73 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 843,
-						"y": 238,
-						"w": 342,
-						"h": 637
+						"x": 759,
+						"y": 16,
+						"w": 662,
+						"h": 1119
 					},
 					"frame": {
-						"x": 679,
+						"x": 1243,
 						"y": 1,
-						"w": 342,
-						"h": 637
+						"w": 662,
+						"h": 1119
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-20.png",
+			"image": "hero-6.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1021,
-				"h": 663
+				"w": 1948,
+				"h": 1124
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Scene - Norse gods girl run.52.png",
+					"filename": "Scene - Norse gods girl run.12.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 849,
-						"y": 255,
-						"w": 331,
-						"h": 661
+						"x": 759,
+						"y": 16,
+						"w": 664,
+						"h": 1122
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 331,
-						"h": 661
+						"w": 664,
+						"h": 1122
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 755,
+						"y": 42,
+						"w": 616,
+						"h": 1122
+					},
+					"frame": {
+						"x": 667,
+						"y": 1,
+						"w": 616,
+						"h": 1122
 					}
 				},
 				{
@@ -1137,125 +395,30 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 843,
-						"y": 238,
-						"w": 342,
-						"h": 637
+						"x": 759,
+						"y": 16,
+						"w": 662,
+						"h": 1119
 					},
 					"frame": {
-						"x": 334,
+						"x": 1285,
 						"y": 1,
-						"w": 342,
-						"h": 637
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.00.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 843,
-						"y": 238,
-						"w": 342,
-						"h": 636
-					},
-					"frame": {
-						"x": 678,
-						"y": 1,
-						"w": 342,
-						"h": 636
+						"w": 662,
+						"h": 1119
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-21.png",
+			"image": "hero-7.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 993,
-				"h": 663
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.40.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 849,
-						"y": 255,
-						"w": 337,
-						"h": 661
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 337,
-						"h": 661
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.15.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 845,
-						"y": 256,
-						"w": 325,
-						"h": 658
-					},
-					"frame": {
-						"x": 340,
-						"y": 1,
-						"w": 325,
-						"h": 658
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.39.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 845,
-						"y": 256,
-						"w": 325,
-						"h": 658
-					},
-					"frame": {
-						"x": 667,
-						"y": 1,
-						"w": 325,
-						"h": 658
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-22.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 988,
-				"h": 645
+				"w": 1909,
+				"h": 1124
 			},
 			"scale": 1,
 			"frames": [
@@ -1264,94 +427,41 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 844,
-						"y": 245,
-						"w": 327,
-						"h": 643
+						"x": 755,
+						"y": 42,
+						"w": 623,
+						"h": 1122
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 327,
-						"h": 643
+						"w": 623,
+						"h": 1122
 					}
 				},
 				{
-					"filename": "Scene - Norse gods girl run.01.png",
+					"filename": "Scene - Norse gods girl run.36.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 845,
-						"y": 245,
-						"w": 328,
-						"h": 638
+						"x": 759,
+						"y": 16,
+						"w": 664,
+						"h": 1122
 					},
 					"frame": {
-						"x": 330,
+						"x": 626,
 						"y": 1,
-						"w": 328,
-						"h": 638
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.49.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 844,
-						"y": 245,
-						"w": 327,
-						"h": 643
-					},
-					"frame": {
-						"x": 660,
-						"y": 1,
-						"w": 327,
-						"h": 643
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-23.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 971,
-				"h": 648
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.02.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 844,
-						"y": 253,
-						"w": 321,
-						"h": 646
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 321,
-						"h": 646
+						"w": 664,
+						"h": 1122
 					}
 				},
 				{
@@ -1359,199 +469,30 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 844,
-						"y": 245,
-						"w": 322,
-						"h": 643
+						"x": 755,
+						"y": 42,
+						"w": 616,
+						"h": 1122
 					},
 					"frame": {
-						"x": 324,
+						"x": 1292,
 						"y": 1,
-						"w": 322,
-						"h": 643
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.13.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 844,
-						"y": 245,
-						"w": 322,
-						"h": 642
-					},
-					"frame": {
-						"x": 648,
-						"y": 1,
-						"w": 322,
-						"h": 642
+						"w": 616,
+						"h": 1122
 					}
 				}
 			]
 		},
 		{
-			"image": "hero-24.png",
+			"image": "hero-8.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 966,
-				"h": 660
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.27.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 845,
-						"y": 256,
-						"w": 320,
-						"h": 658
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 320,
-						"h": 658
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.51.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 845,
-						"y": 256,
-						"w": 320,
-						"h": 658
-					},
-					"frame": {
-						"x": 323,
-						"y": 1,
-						"w": 320,
-						"h": 658
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.03.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 846,
-						"y": 256,
-						"w": 320,
-						"h": 657
-					},
-					"frame": {
-						"x": 645,
-						"y": 1,
-						"w": 320,
-						"h": 657
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-25.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 959,
-				"h": 652
-			},
-			"scale": 1,
-			"frames": [
-				{
-					"filename": "Scene - Norse gods girl run.26.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 844,
-						"y": 253,
-						"w": 319,
-						"h": 650
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 319,
-						"h": 650
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.50.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 844,
-						"y": 253,
-						"w": 319,
-						"h": 650
-					},
-					"frame": {
-						"x": 322,
-						"y": 1,
-						"w": 319,
-						"h": 650
-					}
-				},
-				{
-					"filename": "Scene - Norse gods girl run.38.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1920,
-						"h": 1080
-					},
-					"spriteSourceSize": {
-						"x": 844,
-						"y": 253,
-						"w": 315,
-						"h": 650
-					},
-					"frame": {
-						"x": 643,
-						"y": 1,
-						"w": 315,
-						"h": 650
-					}
-				}
-			]
-		},
-		{
-			"image": "hero-26.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 317,
-				"h": 651
+				"w": 1846,
+				"h": 1130
 			},
 			"scale": 1,
 			"frames": [
@@ -1560,20 +501,1047 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1920,
-						"h": 1080
+						"w": 2013,
+						"h": 1261
 					},
 					"spriteSourceSize": {
-						"x": 844,
-						"y": 253,
-						"w": 315,
-						"h": 649
+						"x": 756,
+						"y": 71,
+						"w": 605,
+						"h": 1128
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 315,
-						"h": 649
+						"w": 605,
+						"h": 1128
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 71,
+						"w": 612,
+						"h": 1128
+					},
+					"frame": {
+						"x": 608,
+						"y": 1,
+						"w": 612,
+						"h": 1128
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 755,
+						"y": 42,
+						"w": 623,
+						"h": 1122
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1,
+						"w": 623,
+						"h": 1122
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1130
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 71,
+						"w": 605,
+						"h": 1128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 605,
+						"h": 1128
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 71,
+						"w": 612,
+						"h": 1128
+					},
+					"frame": {
+						"x": 608,
+						"y": 1,
+						"w": 612,
+						"h": 1128
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1841,
+				"h": 1131
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 0,
+						"w": 919,
+						"h": 1129
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 919,
+						"h": 1129
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 0,
+						"w": 918,
+						"h": 1129
+					},
+					"frame": {
+						"x": 922,
+						"y": 1,
+						"w": 918,
+						"h": 1129
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1841,
+				"h": 1131
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 0,
+						"w": 919,
+						"h": 1129
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 919,
+						"h": 1129
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 0,
+						"w": 918,
+						"h": 1129
+					},
+					"frame": {
+						"x": 922,
+						"y": 1,
+						"w": 918,
+						"h": 1129
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1583,
+				"h": 1137
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 17,
+						"w": 660,
+						"h": 1135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 660,
+						"h": 1135
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 655,
+						"y": 0,
+						"w": 919,
+						"h": 1129
+					},
+					"frame": {
+						"x": 663,
+						"y": 1,
+						"w": 919,
+						"h": 1129
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1515,
+				"h": 1150
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 81,
+						"w": 608,
+						"h": 1145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 608,
+						"h": 1145
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 648,
+						"y": 13,
+						"w": 903,
+						"h": 1148
+					},
+					"frame": {
+						"x": 611,
+						"y": 1,
+						"w": 903,
+						"h": 1148
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1805,
+				"h": 1150
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 650,
+						"y": 13,
+						"w": 898,
+						"h": 1148
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 898,
+						"h": 1148
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 648,
+						"y": 13,
+						"w": 903,
+						"h": 1148
+					},
+					"frame": {
+						"x": 901,
+						"y": 1,
+						"w": 903,
+						"h": 1148
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1805,
+				"h": 1150
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 650,
+						"y": 13,
+						"w": 898,
+						"h": 1148
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 898,
+						"h": 1148
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 648,
+						"y": 13,
+						"w": 903,
+						"h": 1148
+					},
+					"frame": {
+						"x": 901,
+						"y": 1,
+						"w": 903,
+						"h": 1148
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1632,
+				"h": 1154
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 38,
+						"w": 814,
+						"h": 1152
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 814,
+						"h": 1152
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 656,
+						"y": 38,
+						"w": 814,
+						"h": 1152
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 814,
+						"h": 1152
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1632,
+				"h": 1154
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 38,
+						"w": 814,
+						"h": 1152
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 814,
+						"h": 1152
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 656,
+						"y": 38,
+						"w": 814,
+						"h": 1152
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 814,
+						"h": 1152
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1634,
+				"h": 1158
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 656,
+						"y": 38,
+						"w": 814,
+						"h": 1155
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 814,
+						"h": 1155
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 643,
+						"y": 61,
+						"w": 816,
+						"h": 1156
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 816,
+						"h": 1156
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1633,
+				"h": 1158
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 647,
+						"y": 61,
+						"w": 813,
+						"h": 1156
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 813,
+						"h": 1156
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 643,
+						"y": 61,
+						"w": 816,
+						"h": 1156
+					},
+					"frame": {
+						"x": 816,
+						"y": 1,
+						"w": 816,
+						"h": 1156
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 1159
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 81,
+						"w": 615,
+						"h": 1157
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 615,
+						"h": 1157
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 81,
+						"w": 607,
+						"h": 1157
+					},
+					"frame": {
+						"x": 618,
+						"y": 1,
+						"w": 607,
+						"h": 1157
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 647,
+						"y": 61,
+						"w": 813,
+						"h": 1156
+					},
+					"frame": {
+						"x": 1227,
+						"y": 1,
+						"w": 813,
+						"h": 1156
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 1162
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 647,
+						"y": 61,
+						"w": 813,
+						"h": 1160
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 813,
+						"h": 1160
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 81,
+						"w": 615,
+						"h": 1157
+					},
+					"frame": {
+						"x": 816,
+						"y": 1,
+						"w": 615,
+						"h": 1157
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 761,
+						"y": 81,
+						"w": 607,
+						"h": 1157
+					},
+					"frame": {
+						"x": 1433,
+						"y": 1,
+						"w": 607,
+						"h": 1157
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1463,
+				"h": 1173
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 705,
+						"y": 73,
+						"w": 732,
+						"h": 1171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 732,
+						"h": 1171
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 710,
+						"y": 73,
+						"w": 727,
+						"h": 1171
+					},
+					"frame": {
+						"x": 735,
+						"y": 1,
+						"w": 727,
+						"h": 1171
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1463,
+				"h": 1173
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 705,
+						"y": 73,
+						"w": 732,
+						"h": 1171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 732,
+						"h": 1171
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 710,
+						"y": 73,
+						"w": 727,
+						"h": 1171
+					},
+					"frame": {
+						"x": 735,
+						"y": 1,
+						"w": 727,
+						"h": 1171
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1986,
+				"h": 1185
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 75,
+						"w": 625,
+						"h": 1179
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 1179
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 710,
+						"y": 73,
+						"w": 727,
+						"h": 1173
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 727,
+						"h": 1173
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 75,
+						"w": 628,
+						"h": 1183
+					},
+					"frame": {
+						"x": 1357,
+						"y": 1,
+						"w": 628,
+						"h": 1183
+					}
+				}
+			]
+		},
+		{
+			"image": "hero-25.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1884,
+				"h": 1185
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Scene - Norse gods girl run.28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 75,
+						"w": 625,
+						"h": 1183
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 1183
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 75,
+						"w": 628,
+						"h": 1183
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 628,
+						"h": 1183
+					}
+				},
+				{
+					"filename": "Scene - Norse gods girl run.52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2013,
+						"h": 1261
+					},
+					"spriteSourceSize": {
+						"x": 770,
+						"y": 75,
+						"w": 625,
+						"h": 1183
+					},
+					"frame": {
+						"x": 1258,
+						"y": 1,
+						"w": 625,
+						"h": 1183
 					}
 				}
 			]
@@ -1582,6 +1550,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:fedff9bbd71757c84348c1bf63ec1a0c:7ed129180ed7491af84461d02425ef11:4aaceabe3e1ce75d22e6188c8ff4686a$"
+		"smartupdate": "$TexturePacker:SmartUpdate:687717d928b26e069289eab1e072b56f:b1361cb418d7ed758b80547325877806:4bde55b1ac57c6c388eb46483ba90c9c$"
 	}
 }

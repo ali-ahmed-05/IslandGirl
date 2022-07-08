@@ -1,5 +1,5 @@
-const Web3Modal = window.Web3Modal.default;
-const WalletConnectProvider = window.WalletConnectProvider.default;
+// const Web3Modal = window.Web3Modal.default;
+// const WalletConnectProvider = window.WalletConnectProvider.default;
 
 $(document).ready(function () {
     let WalletFunction = {
