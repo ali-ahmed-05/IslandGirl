@@ -19,7 +19,7 @@ $(document).ready(function () {
                 let ethereum = window.ethereum;
 
                 const data = [{
-                    chainId: '0x61',
+                    chainId: '0x38',
                 }]
 
                 const tx = await ethereum.request({
