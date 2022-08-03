@@ -1,3 +1,5 @@
+import { map } from "jquery";
+
 export default class characterSelection extends Phaser.Scene {
     constructor() {
         super('characterSelection');
@@ -6,9 +8,12 @@ export default class characterSelection extends Phaser.Scene {
     init(data) {
         this.players = [];
         if (data?.userNFTsNames.length === 1) {
+
             const player = data.userNFTsNames[0].name;
-            return this.scene.start('level_1', {player});
+            return this.scene.start('level_1', { player });
         }
+        let unqiuePlayers = data?.userNFTsNames.map(metadeta => metadeta.name)
+        unqiuePlayers = [... new Set(unqiuePlayers)]
 
         this.players = data.userNFTsNames;
     }
@@ -53,7 +58,7 @@ export default class characterSelection extends Phaser.Scene {
             })
         });
 
-        ref.add.text((innerWidth / 2) * 0.75, (innerHeight / 2) * 0.5 , 'Please Choose Your Player', {
+        ref.add.text((innerWidth / 2) * 0.75, (innerHeight / 2) * 0.5, 'Please Choose Your Player', {
             fontFamily: 'Georgia, "Goudy Bookletter 1911", Times, serif',
             fontSize: '3em'
             // color: '#F7B32A',
@@ -75,7 +80,7 @@ export default class characterSelection extends Phaser.Scene {
             }, [], this);
 
             this.time.delayedCall(2000, function () {
-                this.scene.start('level_1', {player});
+                this.scene.start('level_1', { player });
             }, [], this);
         })
     }
