@@ -78,7 +78,7 @@ $(document).ready(function () {
         },
         logout: async function logOut() {
             await Moralis.User.logOut();
-            console.log("logged out");
+            console.log("logged out")
         },
         getNFTs: async function (address) {
             const config = {chain: '0x61', token_address: NftAddress, address};
