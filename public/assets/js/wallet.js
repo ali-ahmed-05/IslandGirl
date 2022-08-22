@@ -62,8 +62,8 @@ $(document).ready(function () {
     let MoralisFunctions = {
         // Initialize the Moralis
         initialize: function () {
-            const serverUrl = 'https://iinhdvm4pmas.usemoralis.com:2053/server';
-            const appId = 'iiLXZPaGQ3XgOjG0bxF62aB1AzuvPqydFJLST2hp';
+            const serverUrl = 'https://c9j4w0rouvmh.usemoralis.com:2053/server';
+            const appId = 'HFo1WxXnBrW3ooePtN0zIf3hydmnr3rhAonUp5NM';
             Moralis.start({serverUrl, appId});
         },
 
@@ -81,7 +81,7 @@ $(document).ready(function () {
             console.log("logged out")
         },
         getNFTs: async function (address) {
-            const config = {chain: '0x61', token_address: NftAddress, address};
+            const config = {chain: '0x38', token_address: NftAddress, address};
             const userNFTs = await Moralis.Web3API.account.getNFTs(config);
             return userNFTs.result;
         },
