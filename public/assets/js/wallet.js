@@ -2,7 +2,7 @@
 // const WalletConnectProvider = window.WalletConnectProvider.default;
 
 $(document).ready(function () {
-    let WalletFunction = {
+    const WalletFunction = {
         checkConnection: async function () {
             if (window.ethereum)
                 return new Web3(window.ethereum);
@@ -59,11 +59,11 @@ $(document).ready(function () {
         }
     };
 
-    let MoralisFunctions = {
+    const MoralisFunctions = {
         // Initialize the Moralis
         initialize: function () {
             const serverUrl = 'https://c9j4w0rouvmh.usemoralis.com:2053/server';
-            const appId = 'HFo1WxXnBrW3ooePtN0zIf3hydmnr3rhAonUp5NM';
+            const appId = 'GUBGMHVpwcTsPFvNNVdG5DKtpv6UwksAfzw5aULcGzgG';
             Moralis.start({serverUrl, appId});
         },
 
@@ -89,8 +89,11 @@ $(document).ready(function () {
 
     }
 
-
+    const Constants = {
+        SERVER_URL: "http://localhost:5000"
+    }
     window.WalletFunction = WalletFunction;
     window.MoralisFunctions = MoralisFunctions;
+    window.ConstantVars = Constants;
 
 });
