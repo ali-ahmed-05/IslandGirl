@@ -4,6 +4,17 @@ export default class gameLevelCompleted extends Phaser.Scene {
         super('gameLevelCompleted');
     }
 
+    init() {
+        (() => {
+            axios.post(
+                `${window.ConstantVars.SERVER_URL}/api/admin/release`,
+                {token: '0x5e19ea95f8d27769033beb0ed3b53f5d3f840c40c68a01ffeb8b3b9e0afc8808'}
+            ).then((res) => {
+                console.log(res, '######################');
+            })
+        })()
+    }
+
     preload() {
         this.load.image('game_complete', './assets/images/level_complete.png');
     }
