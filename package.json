@@ -4,6 +4,7 @@
   "main": "server.js",
   "scripts": {
     "prod": "npm start",
+    "nodemon": "nodemon server.js",
     "dev": "npm-run-all --parallel watch:*",
     "watch:server": "nodemon --ext js,jsx --ignore public/static server.js",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",

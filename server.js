@@ -5,11 +5,9 @@ const dateFormat = require("dateformat");
 const securityMiddleware = require('./api/middleware');
 const exclusion = require('./api/whitelist')
 
-
 const path = require("path");
-const {
-  emit
-} = require("process");
+const { emit } = require("process");
+const adminRoutes = require("./api/routes/admin");
 const app = express();
 require("dotenv").config();
 
@@ -54,6 +52,8 @@ app.use((req, res, next) => {
 const api = {
   admin: require("./api/routes/admin"),
 };
+
+app.use('/api/admin', adminRoutes);
 
 app.use("/api", api.admin);
 
