@@ -13,26 +13,24 @@ const USER_TOKEN_EXPIRY_TIME = '80m'
 
 const rewardRelease = async (req, res) => {
     try {
-            let token = req.body.token;
-        return res.status(200).send({ status: true,  token });
-        let decodedString = decodeHash(token); // Base64 decode the String
-        console.log('decodedString', decodedString);
-        decodedString = JSON.parse(atob(decodedString)); // Base64 decode the String
-        console.log('decodedString', decodedString);
+            let {address, sendCoin} = req.body;
+        // let decodedString = decodeHash(token); // Base64 decode the String
+        // console.log('decodedString', decodedString);
+        // console.log('::::::::: ATOB :::::::::::::',atob(decodedString));
+        // decodedString = JSON.parse(atob(decodedString)); // Base64 decode the String
+        // console.log('decodedString', decodedString);
+        // console.log(decodedString);
 
-        return;
-        console.log(decodedString);
         let releaseFundResponse = false;
-        let sendCoin = decodedString.coin;
+        // let sendCoin = decodedString.coin;
 
         if (sendCoin > 0 && sendCoin <= 190) {
             sendCoin = sendCoin * 10
-            releaseFundResponse = await IslandGirlMethods.releaseFunds(decodedString.address, sendCoin);
+            releaseFundResponse = await IslandGirlMethods.releaseFunds(address, sendCoin);
+            res.status(200).send({ status: true,  message: releaseFundResponse })
         }
 
-
-
-        res.status(200).send({ status: true,  message: releaseFundResponse })
+        res.status(200).send({ status: false,  message: releaseFundResponse })
     } catch (e) {
         console.log('Error occurred while releasing reward', e);
         res.status(400).send({status: false, message: e.message})

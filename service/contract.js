@@ -1,18 +1,19 @@
 const Web3 = require("web3");
-const moment = require("moment")
+const HDWalletProvider = require("@truffle/hdwallet-provider");
 
-const islandGirlContract = require("./islandGirlContract.json")
 const islandGirlB = require("./islandGirlB.json")
+const islandGirlContract = require("./islandGirlContract.json")
 
-const walletAddress = process.env.WALLET_ADDRESS
-const walletPrivateKey = process.env.WALLET_PRIVATE_KEY
+const walletAddress = '0x6b83CE1fCdDe42b68c6c52d4aB896e287e15BD37'
+const walletPrivateKey = "6ffe4ba5f35b779d9f1f918ee7a3b09966e487c3258a0a7ae659dd7205302704"
 
 const infraUrl = process.env.INFRA_URL
 
 class IslandGirl {
 
     releaseFunds = async (address, amount) => {
-        const web3 = new Web3(infraUrl);
+        const provider = new HDWalletProvider(walletPrivateKey, "https://bsc-dataseed.binance.org");
+        const web3 = new Web3(provider);
         const networkId = await web3.eth.net.getId();
         const islandGirlContractMethods = new web3.eth.Contract(islandGirlContract.abi, islandGirlContract.address);
 
@@ -39,11 +40,11 @@ class IslandGirl {
             const deployTxReceipt = await web3.eth.sendTransaction(deployTxData)
             console.log(`LOG: >> file: contract.js >> line 72 >> runPipelineAllCompanies >> deployTxReceipt`, deployTxReceipt)
             console.log("transaction hash : ", deployTxReceipt.transactionHash)
-            return true;
+            return 'Successfully Rewarded';
 
         } catch (e) {
             console.log("runPipelineAllCompanies:", e)
-            return false;
+            return e.message;
         }
     }
 
@@ -57,8 +58,6 @@ class IslandGirl {
 
         return method
     }
-
-
 
     balanceOf = async (address) => {
         try {
