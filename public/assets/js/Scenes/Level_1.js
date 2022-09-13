@@ -742,14 +742,14 @@ export default class level_1 extends Phaser.Scene {
 
     hitCoin(player, coin) {
         coin.disableBody(true, true);
-        this.score += 10;
+        this.score += 1;
         this.scoreText.setText(this.score);
         this.coinSound.play();
     }
 
     levelComplete(player, coin) {
         coin.disableBody(true, true);
-        this.score += 10;
+        this.score += 1;
         this.scoreText.setText(this.score);
         this.coinSound.play();
         this.time.delayedCall(500, function () {

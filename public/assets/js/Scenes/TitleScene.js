@@ -144,7 +144,7 @@ export default class titleScene extends Phaser.Scene {
                                 : [];
 
                             if (this.checkBalance <= 0)
-                                return alert('You Cannot Play')
+                                return alert('You are 1 step away from playing the Island Girl Play2Earn Game! Head to our official website and have at least 1 MysteryBox NFT in your wallet!')
 
                             if (userNFTsNames.length > 0) {
                                 this.cameras.main.fadeOut(1000, 0, 0, 0)

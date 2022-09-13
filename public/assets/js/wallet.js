@@ -90,7 +90,7 @@ $(document).ready(function () {
     }
 
     const Constants = {
-        SERVER_URL: "http://localhost:5000"
+        SERVER_URL: "https://island-girl-game.herokuapp.com"
     }
     window.WalletFunction = WalletFunction;
     window.MoralisFunctions = MoralisFunctions;

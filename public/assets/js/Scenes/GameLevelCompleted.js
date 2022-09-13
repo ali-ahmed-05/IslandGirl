@@ -20,51 +20,38 @@ export default class gameLevelCompleted extends Phaser.Scene {
     create() {
         this.cam = this.cameras.main;
         // this.background = this.add.image(0, 0, "game_complete").setOrigin(0, 0).scale(1,1).refreshBody();
-        this.physics.add.staticGroup().create(this.cam.midPoint.x, 0, "game_complete").setScale(1, 1).refreshBody();
+        // this.physics.add.staticGroup().create(this.cam.midPoint.x, 0, "game_complete").setScale(1, 1).refreshBody();
         this.background = this.add.image(0, 0, "game_complete").setOrigin(0, 0);
         // this.background = this.add.image(0, 0, "game_complete");
-        // this.background.displayWidth = this.sys.canvas.width / 2;
-        this.background.displayHeight = this.sys.canvas.height;
-
-        Phaser.Display.Align.In.Center(
-            this.background,
-            this.add.zone(
-                this.sys.canvas.width / 2,
-                (this.sys.canvas.height + 50) / 2,
-                this.sys.canvas.width,
-                this.sys.canvas.height
-            )
-        );
-        this.cameras.main.backgroundColor =
-            Phaser.Display.Color.HexStringToColor("#141a3c");
-        // this.background.setPosition(innerWidth / 2, innerHeight / 2);
+        this.background.displayWidth = innerWidth;
+        this.background.displayHeight = innerHeight;
         //Keyboard
         this.spaceBar = this.input.keyboard.addKey(
             Phaser.Input.Keyboard.KeyCodes.SPACE
         );
 
         this.levelCompleteButton = this.add
-            .image(this.game.renderer.width / 1.8, innerHeight / 1.2, "next_level")
-            .setScale(0.4);
+            .image(this.game.renderer.width / 1.65, innerHeight / 1.2, "next_level")
+            .setScale(0.75);
         this.levelCompleteButton.setInteractive();
 
         this.earnButton = this.add
-            .image(this.game.renderer.width / 2.4, innerHeight / 1.2, "earn")
-            .setScale(0.4);
+            .image(this.game.renderer.width / 2.8, innerHeight / 1.2, "earn")
+            .setScale(0.75);
         this.earnButton.setInteractive();
 
         this.earnButton.on("pointerover", () => {
-            this.earnButton.setScale(0.44);
+            this.earnButton.setScale(0.8);
         });
         this.earnButton.on("pointerout", () => {
-            this.earnButton.setScale(0.4);
+            this.earnButton.setScale(0.75);
         });
 
         this.levelCompleteButton.on("pointerover", () => {
-            this.levelCompleteButton.setScale(0.44);
+            this.levelCompleteButton.setScale(0.8);
         });
         this.levelCompleteButton.on("pointerout", () => {
-            this.levelCompleteButton.setScale(0.4);
+            this.levelCompleteButton.setScale(0.75);
         });
 
         this.earnButton.on("pointerdown", async () => {
