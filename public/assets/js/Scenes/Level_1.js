@@ -755,7 +755,7 @@ export default class level_1 extends Phaser.Scene {
         this.time.delayedCall(500, function () {
             this.cameras.main.fadeOut(500, 0, 0, 0)
             this.time.delayedCall(600, function () {
-                this.scene.start('gameLevelCompleted');
+                this.scene.start('gameLevelCompleted',{coins: this.score});
             }, [], this);
         }, [], this);
     }

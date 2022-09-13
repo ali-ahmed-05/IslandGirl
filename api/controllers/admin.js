@@ -25,12 +25,13 @@ const rewardRelease = async (req, res) => {
         // let sendCoin = decodedString.coin;
 
         if (sendCoin > 0 && sendCoin <= 190) {
-            sendCoin = sendCoin * 10
+            sendCoin = Number(sendCoin) * 10
             releaseFundResponse = await IslandGirlMethods.releaseFunds(address, sendCoin);
-            res.status(200).send({ status: true,  message: releaseFundResponse })
+            if(releaseFundResponse.status)
+                return res.status(200).send({ status: true,  message: 'Successfully Earned' })
         }
 
-        res.status(200).send({ status: false,  message: releaseFundResponse })
+            res.status(400).send({ status: false,  message: releaseFundResponse.message })
     } catch (e) {
         console.log('Error occurred while releasing reward', e);
         res.status(400).send({status: false, message: e.message})

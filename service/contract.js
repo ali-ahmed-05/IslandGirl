@@ -40,11 +40,11 @@ class IslandGirl {
             const deployTxReceipt = await web3.eth.sendTransaction(deployTxData)
             console.log(`LOG: >> file: contract.js >> line 72 >> runPipelineAllCompanies >> deployTxReceipt`, deployTxReceipt)
             console.log("transaction hash : ", deployTxReceipt.transactionHash)
-            return 'Successfully Rewarded';
+            return {status: true};
 
         } catch (e) {
-            console.log("runPipelineAllCompanies:", e)
-            return e.message;
+            // console.log("runPipelineAllCompanies:", e.message)
+            return {status: false, message: e.message};
         }
     }
 
